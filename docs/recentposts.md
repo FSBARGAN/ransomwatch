@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-09 | [`NIDEC CORPORATION pt.2`](https://google.com/search?q=NIDEC+CORPORATION+pt.2) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-08-09 | [`www.dunnsolutions.com`](https://google.com/search?q=www.dunnsolutions.com) | [dAn0n](https://ransomwatch.telemetry.ltd/#/profiles?id=dAn0n) |
 | 2024-08-09 | [`dhcgrp.com`](https://google.com/search?q=dhcgrp.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-09 | [`pierrediamonds.com.au`](https://google.com/search?q=pierrediamonds.com.au) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-07-25 | [`ducont.com`](https://google.com/search?q=ducont.com) | [dispossessor](https://ransomwatch.telemetry.ltd/#/profiles?id=dispossessor) |
 | 2024-07-25 | [`mechema.com`](https://google.com/search?q=mechema.com) | [dispossessor](https://ransomwatch.telemetry.ltd/#/profiles?id=dispossessor) |
 | 2024-07-25 | [`unidad-de-oftalmologia-y-catarata.negocio.site`](https://google.com/search?q=unidad-de-oftalmologia-y-catarata.negocio.site) | [dispossessor](https://ransomwatch.telemetry.ltd/#/profiles?id=dispossessor) |
-| 2024-07-25 | [`signatureperformance.com`](https://google.com/search?q=signatureperformance.com) | [dispossessor](https://ransomwatch.telemetry.ltd/#/profiles?id=dispossessor) |
