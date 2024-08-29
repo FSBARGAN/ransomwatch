@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-29 | [`https://www.clatronic.com/`](https://google.com/search?q=https%3A%2F%2Fwww.clatronic.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-08-29 | [`mihlfeld.com\$88.2M\USA\316GB\100% DISCLOSED`](https://google.com/search?q=mihlfeld.com%5C%2488.2M%5CUSA%5C316GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-08-29 | [`https://malonetoyota.com`](https://google.com/search?q=https%3A%2F%2Fmalonetoyota.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-08-29 | [`Universal Pure`](https://google.com/search?q=Universal+Pure) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-08-14 | [`Drug Testing Service`](https://google.com/search?q=Drug+Testing+Service) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-08-14 | [`Financial Advisors`](https://google.com/search?q=Financial+Advisors) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-08-14 | [`Texas Centers for Infectious Disease Associates`](https://google.com/search?q=Texas+Centers+for+Infectious+Disease+Associates) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-08-14 | [`Thompson Davis and Co`](https://google.com/search?q=Thompson+Davis+and+Co) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
