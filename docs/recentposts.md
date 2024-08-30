@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-30 | [`Stein Fibers`](https://google.com/search?q=Stein+Fibers) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-08-30 | [`ccj.edu.lb`](https://google.com/search?q=ccj.edu.lb) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-08-30 | [`rainierarms.com`](https://google.com/search?q=rainierarms.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-30 | [`glasstile.com`](https://google.com/search?q=glasstile.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-08-15 | [`www.isnart.it`](https://google.com/search?q=www.isnart.it) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-15 | [`Seaway Manufacturing Corp.`](https://google.com/search?q=Seaway+Manufacturing+Corp.) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-08-15 | [`http://www.fdsrl.it`](https://google.com/search?q=http%3A%2F%2Fwww.fdsrl.it) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
-| 2024-08-15 | [`[DISCLOSED]Sibanye-Stillwater`](https://google.com/search?q=%5BDISCLOSED%5DSibanye-Stillwater) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
