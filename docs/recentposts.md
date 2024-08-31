@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-31 | [`Welding and Fabrication (humblemfg)`](https://google.com/search?q=Welding+and+Fabrication+%28humblemfg%29) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-08-31 | [`City Projects`](https://google.com/search?q=City+Projects) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-08-31 | [`Prism Construction`](https://google.com/search?q=Prism+Construction) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-08-31 | [`Cotala Cross-Media`](https://google.com/search?q=Cotala+Cross-Media) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-08-16 | [`Sterling Rope`](https://google.com/search?q=Sterling+Rope) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-08-15 | [`ljglaw.com`](https://google.com/search?q=ljglaw.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-15 | [`www.aaconsultinc.com`](https://google.com/search?q=www.aaconsultinc.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-08-15 | [`Tick Tock`](https://google.com/search?q=Tick+Tock) | [nullbulge](https://ransomwatch.telemetry.ltd/#/profiles?id=nullbulge) |
