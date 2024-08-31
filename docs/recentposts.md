@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-31 | [`Burgess Kilpartik`](https://google.com/search?q=Burgess+Kilpartik) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-08-31 | [`Richmond Auto Mall`](https://google.com/search?q=Richmond+Auto+Mall) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-08-31 | [`Seng Tsoi Architect`](https://google.com/search?q=Seng+Tsoi+Architect) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-08-31 | [`Raeyco Lab Equipment Systems Management`](https://google.com/search?q=Raeyco+Lab+Equipment+Systems+Management) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-08-16 | [`Amco Metal Industrial Corporation `](https://google.com/search?q=Amco+Metal+Industrial+Corporation+) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-08-16 | [`ccj.edu.lb `](https://google.com/search?q=ccj.edu.lb+) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-08-16 | [`[DISCLOSED] Valisana`](https://google.com/search?q=%5BDISCLOSED%5D+Valisana) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2024-08-16 | [`BTS Biogas`](https://google.com/search?q=BTS+Biogas) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
