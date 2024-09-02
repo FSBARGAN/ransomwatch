@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-02 | [`www.pokerspa.it`](https://google.com/search?q=www.pokerspa.it) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-02 | [`Removal.AI`](https://google.com/search?q=Removal.AI) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-02 | [`Project Hospitality`](https://google.com/search?q=Project+Hospitality) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-09-02 | [`www.schneider.ch`](https://google.com/search?q=www.schneider.ch) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-08-19 | [`Ferraro Group`](https://google.com/search?q=Ferraro+Group) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-08-18 | [`Mohawk Valley Cardiology PC`](https://google.com/search?q=Mohawk+Valley+Cardiology+PC) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-08-18 | [`PBC Companies`](https://google.com/search?q=PBC+Companies) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-08-18 | [`Cosmetic Dental Group`](https://google.com/search?q=Cosmetic+Dental+Group) | [trinity](https://ransomwatch.telemetry.ltd/#/profiles?id=trinity) |
