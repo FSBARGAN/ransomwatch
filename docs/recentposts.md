@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-02 | [`www.lfewines.com`](https://google.com/search?q=www.lfewines.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-02 | [`grant-associates.uk.com`](https://google.com/search?q=grant-associates.uk.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-01 | [`www.nissan-dubai.com`](https://google.com/search?q=www.nissan-dubai.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-01 | [`ciot.com`](https://google.com/search?q=ciot.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-08-17 | [`www.martinswood.herts.sch.uk`](https://google.com/search?q=www.martinswood.herts.sch.uk) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-17 | [`www.gmchc.org`](https://google.com/search?q=www.gmchc.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-17 | [`www.regentcaravans.com.au`](https://google.com/search?q=www.regentcaravans.com.au) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-08-17 | [`www.netconfig.co.za`](https://google.com/search?q=www.netconfig.co.za) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
