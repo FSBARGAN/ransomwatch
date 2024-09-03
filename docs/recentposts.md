@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-03 | [`rangeramerican.com\$52.9M\USA\218GB\&lt;1% DISCLOSED`](https://google.com/search?q=rangeramerican.com%5C%2452.9M%5CUSA%5C218GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-09-03 | [`Turman `](https://google.com/search?q=Turman+) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-09-03 | [`VOP CZ`](https://google.com/search?q=VOP+CZ) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-09-03 | [`[DISCLOSED][TORRENT] Roberto Verino Difusion`](https://google.com/search?q=%5BDISCLOSED%5D%5BTORRENT%5D+Roberto+Verino+Difusion) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-08-19 | [`Cambria Automobiles (summitgroup.local)`](https://google.com/search?q=Cambria+Automobiles+%28summitgroup.local%29) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2024-08-19 | [`Johnson Laschober & Associates `](https://google.com/search?q=Johnson+Laschober+%26+Associates+) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2024-08-19 | [`Alvan Blanch Development`](https://google.com/search?q=Alvan+Blanch+Development) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
-| 2024-08-19 | [`Warwick Hotels and Resorts`](https://google.com/search?q=Warwick+Hotels+and+Resorts) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
