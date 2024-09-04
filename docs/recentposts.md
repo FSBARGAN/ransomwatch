@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-04 | [`www.ramoncorripio.com`](https://google.com/search?q=www.ramoncorripio.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-04 | [`http://www.osda.com`](https://google.com/search?q=http%3A%2F%2Fwww.osda.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-09-04 | [`www.bennettcurrie.co.nz`](https://google.com/search?q=www.bennettcurrie.co.nz) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-04 | [`plannedparenthood.org`](https://google.com/search?q=plannedparenthood.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-08-19 | [`vindix.pl`](https://google.com/search?q=vindix.pl) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
 | 2024-08-19 | [`Albatros S.r.l.`](https://google.com/search?q=Albatros+S.r.l.) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
 | 2024-08-19 | [`SCHLATTNER.de`](https://google.com/search?q=SCHLATTNER.de) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
-| 2024-08-19 | [`deganis.fr`](https://google.com/search?q=deganis.fr) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
