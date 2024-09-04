@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-04 | [`www.bennettcurrie.co.nz`](https://google.com/search?q=www.bennettcurrie.co.nz) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-04 | [`plannedparenthood.org`](https://google.com/search?q=plannedparenthood.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-04 | [`Sunrise Erectors`](https://google.com/search?q=Sunrise+Erectors) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-09-04 | [`www.iiitd.ac.in`](https://google.com/search?q=www.iiitd.ac.in) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-08-19 | [`SCHLATTNER.de`](https://google.com/search?q=SCHLATTNER.de) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
 | 2024-08-19 | [`deganis.fr`](https://google.com/search?q=deganis.fr) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
 | 2024-08-19 | [`hugwi.ch`](https://google.com/search?q=hugwi.ch) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
-| 2024-08-19 | [`True Blue Environmental`](https://google.com/search?q=True+Blue+Environmental) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
