@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-05 | [`Imetame`](https://google.com/search?q=Imetame) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-09-05 | [`SWISS CZ`](https://google.com/search?q=SWISS+CZ) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-09-05 | [`Cellular Plus`](https://google.com/search?q=Cellular+Plus) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-09-05 | [`Arch Street Capital Advisors`](https://google.com/search?q=Arch+Street+Capital+Advisors) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-08-20 | [`atpsassari.it`](https://google.com/search?q=atpsassari.it) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
 | 2024-08-20 | [`Rushlift (lks.net)`](https://google.com/search?q=Rushlift+%28lks.net%29) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2024-08-20 | [`North Georgia Brick`](https://google.com/search?q=North+Georgia+Brick) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-08-20 | [`Akkanat Holding`](https://google.com/search?q=Akkanat+Holding) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
