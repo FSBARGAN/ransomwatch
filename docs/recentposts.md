@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-05 | [`Seirus Innovation`](https://google.com/search?q=Seirus+Innovation) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-09-05 | [`Farmers' Rice Cooperative`](https://google.com/search?q=Farmers%27+Rice+Cooperative) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-09-05 | [`Western Supplies, Inc`](https://google.com/search?q=Western+Supplies%2C+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-09-04 | [`Crain Group`](https://google.com/search?q=Crain+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-08-19 | [`Waynesboro Nurseries`](https://google.com/search?q=Waynesboro+Nurseries) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-08-19 | [`XPERT Business Solutions GmbH`](https://google.com/search?q=XPERT+Business+Solutions+GmbH) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
 | 2024-08-19 | [`MyFreightWorld`](https://google.com/search?q=MyFreightWorld) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
-| 2024-08-19 | [`cbmm.org`](https://google.com/search?q=cbmm.org) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
