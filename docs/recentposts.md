@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-06 | [`inorde.com`](https://google.com/search?q=inorde.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-06 | [`cbt-gmbh.de`](https://google.com/search?q=cbt-gmbh.de) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-06 | [`Custom Security Systems`](https://google.com/search?q=Custom+Security+Systems) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-09-05 | [`tri-tech.us`](https://google.com/search?q=tri-tech.us) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-08-21 | [`Olympus Financial`](https://google.com/search?q=Olympus+Financial) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-08-21 | [`globacap.com`](https://google.com/search?q=globacap.com) | [apt73](https://ransomwatch.telemetry.ltd/#/profiles?id=apt73) |
 | 2024-08-21 | [`Codival`](https://google.com/search?q=Codival) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2024-08-20 | [`jpoint.in`](https://google.com/search?q=jpoint.in) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
