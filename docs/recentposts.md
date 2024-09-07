@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-07 | [`cardiovirginia.com`](https://google.com/search?q=cardiovirginia.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-07 | [`inlighten.net&lt;Disclose&gt;`](https://google.com/search?q=inlighten.net%26lt%3BDisclose%26gt%3B) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-07 | [`www.timortelecom.tl`](https://google.com/search?q=www.timortelecom.tl) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-07 | [`wilmingtoncc.org`](https://google.com/search?q=wilmingtoncc.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-08-22 | [`kbosecurity.co.uk`](https://google.com/search?q=kbosecurity.co.uk) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
 | 2024-08-22 | [`khonaysser.com`](https://google.com/search?q=khonaysser.com) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
 | 2024-08-21 | [`The SMS Group`](https://google.com/search?q=The+SMS+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-08-21 | [`RCG`](https://google.com/search?q=RCG) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
