@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-07 | [`www.galgorm.com&lt;Auction&gt;`](https://google.com/search?q=www.galgorm.com%26lt%3BAuction%26gt%3B) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-07 | [`kawasaki.eu`](https://google.com/search?q=kawasaki.eu) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-07 | [`NIDEC CORPORATION Data Leak`](https://google.com/search?q=NIDEC+CORPORATION+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-09-06 | [`briedis.lt`](https://google.com/search?q=briedis.lt) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-08-21 | [`Armour Coatings`](https://google.com/search?q=Armour+Coatings) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-08-21 | [`Zyxel.eu`](https://google.com/search?q=Zyxel.eu) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
 | 2024-08-21 | [`Jinny Corporation`](https://google.com/search?q=Jinny+Corporation) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-08-21 | [`www.pindrophearing.co.uk`](https://google.com/search?q=www.pindrophearing.co.uk) | [apt73](https://ransomwatch.telemetry.ltd/#/profiles?id=apt73) |
