@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-07 | [`www.citebd.org`](https://google.com/search?q=www.citebd.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-07 | [`Millsboro Animal Hospital`](https://google.com/search?q=Millsboro+Animal+Hospital) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-09-07 | [`www.galgorm.com&lt;Auction&gt;`](https://google.com/search?q=www.galgorm.com%26lt%3BAuction%26gt%3B) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-07 | [`kawasaki.eu`](https://google.com/search?q=kawasaki.eu) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-08-21 | [`Policy Administration Solutions`](https://google.com/search?q=Policy+Administration+Solutions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-08-21 | [`Grid Subject Matter Experts`](https://google.com/search?q=Grid+Subject+Matter+Experts) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-08-21 | [`Armour Coatings`](https://google.com/search?q=Armour+Coatings) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-08-21 | [`Zyxel.eu`](https://google.com/search?q=Zyxel.eu) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
