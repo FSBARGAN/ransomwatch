@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-08 | [`belfius.be`](https://google.com/search?q=belfius.be) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-09-07 | [`dvv.be`](https://google.com/search?q=dvv.be) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-09-07 | [`lmgroup.com&lt;Disclose&gt;`](https://google.com/search?q=lmgroup.com%26lt%3BDisclose%26gt%3B) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-07 | [`cardiovirginia.com`](https://google.com/search?q=cardiovirginia.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-08-22 | [`antaeustravel.com`](https://google.com/search?q=antaeustravel.com) | [blackout](https://ransomwatch.telemetry.ltd/#/profiles?id=blackout) |
 | 2024-08-22 | [`Engedi`](https://google.com/search?q=Engedi) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-08-22 | [`EPS Tech confidential source code ( military )`](https://google.com/search?q=EPS+Tech+confidential+source+code+%28+military+%29) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2024-08-22 | [`kbosecurity.co.uk`](https://google.com/search?q=kbosecurity.co.uk) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
