@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-09 | [`Riverside Resort Hotel and Casino`](https://google.com/search?q=Riverside+Resort+Hotel+and+Casino) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2024-09-08 | [`idom.com`](https://google.com/search?q=idom.com) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2024-09-08 | [`Appletec Ltd Hacked`](https://google.com/search?q=Appletec+Ltd+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2024-09-08 | [`https://christen-sanitaer.ch/`](https://google.com/search?q=https%3A%2F%2Fchristen-sanitaer.ch%2F) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-08-23 | [`Crimson Interactive`](https://google.com/search?q=Crimson+Interactive) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-08-23 | [`www.seaeng.com`](https://google.com/search?q=www.seaeng.com) | [dAn0n](https://ransomwatch.telemetry.ltd/#/profiles?id=dAn0n) |
 | 2024-08-22 | [`schoolrush.com`](https://google.com/search?q=schoolrush.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-08-22 | [`https://saeilo.com`](https://google.com/search?q=https%3A%2F%2Fsaeilo.com) | [metaencryptor](https://ransomwatch.telemetry.ltd/#/profiles?id=metaencryptor) |
