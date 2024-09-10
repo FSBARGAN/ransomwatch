@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-10 | [`Bank Rakyat`](https://google.com/search?q=Bank+Rakyat) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-09-10 | [`kahle cpa`](https://google.com/search?q=kahle+cpa) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-09-10 | [`CAM - Tyre Trade Systems &amp; Solutions`](https://google.com/search?q=CAM+-+Tyre+Trade+Systems+%26amp%3B+Solutions) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-09-10 | [`Anniversary Holding`](https://google.com/search?q=Anniversary+Holding) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-08-24 | [`www.curvc.com`](https://google.com/search?q=www.curvc.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
 | 2024-08-24 | [`Eagle Safety Eyewear`](https://google.com/search?q=Eagle+Safety+Eyewear) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
 | 2024-08-24 | [`https://www.hofmann-malerei.ch`](https://google.com/search?q=https%3A%2F%2Fwww.hofmann-malerei.ch) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
-| 2024-08-24 | [`ingotbrokers.com`](https://google.com/search?q=ingotbrokers.com) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
