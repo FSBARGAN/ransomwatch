@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-10 | [`CAM - Tyre Trade Systems &amp; Solutions`](https://google.com/search?q=CAM+-+Tyre+Trade+Systems+%26amp%3B+Solutions) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-09-10 | [`Anniversary Holding`](https://google.com/search?q=Anniversary+Holding) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-09-10 | [`Battle Lumber Co.`](https://google.com/search?q=Battle+Lumber+Co.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-09-09 | [`atlanticice.com`](https://google.com/search?q=atlanticice.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-08-24 | [`https://www.hofmann-malerei.ch`](https://google.com/search?q=https%3A%2F%2Fwww.hofmann-malerei.ch) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
 | 2024-08-24 | [`ingotbrokers.com`](https://google.com/search?q=ingotbrokers.com) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
 | 2024-08-24 | [`ccsdschools.com&lt;disclose&gt;`](https://google.com/search?q=ccsdschools.com%26lt%3Bdisclose%26gt%3B) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-08-24 | [`www.jewishharrisburg.org`](https://google.com/search?q=www.jewishharrisburg.org) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
