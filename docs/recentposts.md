@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-11 | [`https://www.kadokawa.co.jp/`](https://google.com/search?q=https%3A%2F%2Fwww.kadokawa.co.jp%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-09-11 | [`Weldco-Beales Manufacturing`](https://google.com/search?q=Weldco-Beales+Manufacturing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-09-11 | [`Virginia Dare Extract Co.`](https://google.com/search?q=Virginia+Dare+Extract+Co.) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-09-11 | [`Southeast Cooler`](https://google.com/search?q=Southeast+Cooler) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-08-26 | [`[DISCLOSED] Lake Washington Institute of Technology`](https://google.com/search?q=%5BDISCLOSED%5D+Lake+Washington+Institute+of+Technology) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-08-26 | [`Blue Maven Group - Press Release`](https://google.com/search?q=Blue+Maven+Group+-+Press+Release) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-08-26 | [`US Marshals Service`](https://google.com/search?q=US+Marshals+Service) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-08-26 | [`NewsBank`](https://google.com/search?q=NewsBank) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
