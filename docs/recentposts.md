@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-12 | [`www.bsg.com.au`](https://google.com/search?q=www.bsg.com.au) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-12 | [`www.vinatiorganics.com`](https://google.com/search?q=www.vinatiorganics.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-12 | [`allamericanpoly.com`](https://google.com/search?q=allamericanpoly.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-12 | [`www.jatelindo.co.id`](https://google.com/search?q=www.jatelindo.co.id) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-08-26 | [`Brookshire Dental - Hospitals &amp; Clinics`](https://google.com/search?q=Brookshire+Dental+-+Hospitals+%26amp%3B+Clinics) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-08-26 | [`MacEwen Petroleum`](https://google.com/search?q=MacEwen+Petroleum) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2024-08-26 | [`htsusa.com`](https://google.com/search?q=htsusa.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-08-26 | [`www.spie-tec.de`](https://google.com/search?q=www.spie-tec.de) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
