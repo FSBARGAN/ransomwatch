@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-12 | [`www.galgorm.com`](https://google.com/search?q=www.galgorm.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-12 | [`www.unige.it`](https://google.com/search?q=www.unige.it) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-12 | [`thornton-inc.com`](https://google.com/search?q=thornton-inc.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-12 | [`www.dpe.go.th`](https://google.com/search?q=www.dpe.go.th) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-08-27 | [`securityinstrument.com\$15.4M\USA\141GB\&lt;1% DISCLOSED`](https://google.com/search?q=securityinstrument.com%5C%2415.4M%5CUSA%5C141GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-08-26 | [`Johnson Laschober & Associates`](https://google.com/search?q=Johnson+Laschober+%26+Associates) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2024-08-26 | [`Precom`](https://google.com/search?q=Precom) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-08-26 | [`Microchip Technology`](https://google.com/search?q=Microchip+Technology) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
