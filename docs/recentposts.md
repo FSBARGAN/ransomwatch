@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-12 | [`rupicard.com`](https://google.com/search?q=rupicard.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-09-12 | [`ICBC (London)`](https://google.com/search?q=ICBC+%28London%29) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-09-12 | [`www.galgorm.com`](https://google.com/search?q=www.galgorm.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-12 | [`www.unige.it`](https://google.com/search?q=www.unige.it) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-08-27 | [`Mason City Recycling Center `](https://google.com/search?q=Mason+City+Recycling+Center+) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-08-27 | [`Crowe`](https://google.com/search?q=Crowe) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-08-27 | [`securityinstrument.com\$15.4M\USA\141GB\&lt;1% DISCLOSED`](https://google.com/search?q=securityinstrument.com%5C%2415.4M%5CUSA%5C141GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-08-26 | [`Johnson Laschober & Associates`](https://google.com/search?q=Johnson+Laschober+%26+Associates) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
