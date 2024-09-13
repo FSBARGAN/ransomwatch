@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-13 | [`schynsassurances.be`](https://google.com/search?q=schynsassurances.be) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-09-13 | [`pv.be`](https://google.com/search?q=pv.be) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-09-13 | [`Kingsmill Resort`](https://google.com/search?q=Kingsmill+Resort) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-09-12 | [`brunswickhospitalcenter.org`](https://google.com/search?q=brunswickhospitalcenter.org) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-08-27 | [`KidKraft`](https://google.com/search?q=KidKraft) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2024-08-27 | [`www.chwa.com.tw`](https://google.com/search?q=www.chwa.com.tw) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-27 | [`mykukun.com`](https://google.com/search?q=mykukun.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-08-27 | [`http://modelaircraft.org`](https://google.com/search?q=http%3A%2F%2Fmodelaircraft.org) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
