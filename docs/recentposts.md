@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-14 | [`Retemex`](https://google.com/search?q=Retemex) | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
 | 2024-09-14 | [`HB Construction`](https://google.com/search?q=HB+Construction) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-09-14 | [`http://www.fdlawrence.com`](https://google.com/search?q=http%3A%2F%2Fwww.fdlawrence.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-09-14 | [`ecbawm.com`](https://google.com/search?q=ecbawm.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-08-29 | [`Clabots`](https://google.com/search?q=Clabots) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-08-29 | [`ABC Parts International`](https://google.com/search?q=ABC+Parts+International) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-08-28 | [`Network Communications Group`](https://google.com/search?q=Network+Communications+Group) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-08-28 | [`JM Thompson`](https://google.com/search?q=JM+Thompson) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
