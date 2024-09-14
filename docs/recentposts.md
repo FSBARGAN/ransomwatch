@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-14 | [`Ascend Analytics (ascendanalytics.com)`](https://google.com/search?q=Ascend+Analytics+%28ascendanalytics.com%29) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2024-09-14 | [`S. Walter Packaging`](https://google.com/search?q=S.+Walter+Packaging) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-09-14 | [`VIcom Corporation`](https://google.com/search?q=VIcom+Corporation) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-09-14 | [`Retemex`](https://google.com/search?q=Retemex) | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-08-29 | [`Omicron Granite & Tile`](https://google.com/search?q=Omicron+Granite+%26+Tile) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-08-29 | [`GDB International`](https://google.com/search?q=GDB+International) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-08-29 | [`Epi Breads`](https://google.com/search?q=Epi+Breads) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-08-29 | [`Clabots`](https://google.com/search?q=Clabots) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
