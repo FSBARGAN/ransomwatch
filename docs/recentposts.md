@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-15 | [`Emtel`](https://google.com/search?q=Emtel) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-09-15 | [`www.rockymountaingastro.com`](https://google.com/search?q=www.rockymountaingastro.com) | [trinity](https://ransomwatch.telemetry.ltd/#/profiles?id=trinity) |
 | 2024-09-15 | [`INTERNAL.ROCKYMOUNTAINGASTRO.COM`](https://google.com/search?q=INTERNAL.ROCKYMOUNTAINGASTRO.COM) | [trinity](https://ransomwatch.telemetry.ltd/#/profiles?id=trinity) |
 | 2024-09-15 | [`Announcement 9-14`](https://google.com/search?q=Announcement+9-14) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-08-30 | [`http://www.hollywoodburbankairport.com`](https://google.com/search?q=http%3A%2F%2Fwww.hollywoodburbankairport.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-08-29 | [`Stiller Aesthetics`](https://google.com/search?q=Stiller+Aesthetics) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-08-29 | [`Risser Oil`](https://google.com/search?q=Risser+Oil) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-08-29 | [`https://www.clatronic.com/`](https://google.com/search?q=https%3A%2F%2Fwww.clatronic.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
