@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-15 | [`lafuturasrl.it`](https://google.com/search?q=lafuturasrl.it) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-15 | [`EAGLE School`](https://google.com/search?q=EAGLE+School) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-09-15 | [`Emtel`](https://google.com/search?q=Emtel) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-09-15 | [`www.rockymountaingastro.com`](https://google.com/search?q=www.rockymountaingastro.com) | [trinity](https://ransomwatch.telemetry.ltd/#/profiles?id=trinity) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-08-30 | [`tibaitservices.com\$124.3M\Mexico\29GB\100% DISCLOSED`](https://google.com/search?q=tibaitservices.com%5C%24124.3M%5CMexico%5C29GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-08-30 | [`Corbally Gartland and Rappleyea`](https://google.com/search?q=Corbally+Gartland+and+Rappleyea) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-08-30 | [`http://www.hollywoodburbankairport.com`](https://google.com/search?q=http%3A%2F%2Fwww.hollywoodburbankairport.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-08-29 | [`Stiller Aesthetics`](https://google.com/search?q=Stiller+Aesthetics) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
