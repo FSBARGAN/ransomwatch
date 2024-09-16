@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-16 | [`Baskervill`](https://google.com/search?q=Baskervill) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-09-16 | [`Multidata`](https://google.com/search?q=Multidata) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-09-16 | [`balboabayresort.com\$101M\USA\790GB\100% DISCLOSED`](https://google.com/search?q=balboabayresort.com%5C%24101M%5CUSA%5C790GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-09-16 | [`Port of Seattle`](https://google.com/search?q=Port+of+Seattle) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-08-31 | [`Prism Construction`](https://google.com/search?q=Prism+Construction) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-08-31 | [`Cotala Cross-Media`](https://google.com/search?q=Cotala+Cross-Media) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-08-31 | [`Phyton Biotech`](https://google.com/search?q=Phyton+Biotech) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
-| 2024-08-31 | [`Mitsubishi Chemical Group`](https://google.com/search?q=Mitsubishi+Chemical+Group) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
