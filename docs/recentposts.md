@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-17 | [`Protective Industrial Products`](https://google.com/search?q=Protective+Industrial+Products) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-09-17 | [`Inktel`](https://google.com/search?q=Inktel) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-09-17 | [`Hariri Pontarini Architects`](https://google.com/search?q=Hariri+Pontarini+Architects) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-09-17 | [`Mitsubishi Chemical Group pt.2`](https://google.com/search?q=Mitsubishi+Chemical+Group+pt.2) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-08-31 | [`Seng Tsoi Architect`](https://google.com/search?q=Seng+Tsoi+Architect) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-08-31 | [`Raeyco Lab Equipment Systems Management`](https://google.com/search?q=Raeyco+Lab+Equipment+Systems+Management) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-08-31 | [`Welding and Fabrication (humblemfg)`](https://google.com/search?q=Welding+and+Fabrication+%28humblemfg%29) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
-| 2024-08-31 | [`City Projects`](https://google.com/search?q=City+Projects) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
