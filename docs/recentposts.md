@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-18 | [`Plaisted Companies`](https://google.com/search?q=Plaisted+Companies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-09-18 | [`Bertelkamp Automation `](https://google.com/search?q=Bertelkamp+Automation+) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-09-18 | [`DJH Jugendherberge`](https://google.com/search?q=DJH+Jugendherberge) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-09-18 | [`www.plumbersstock.com`](https://google.com/search?q=www.plumbersstock.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-09-02 | [`www.fenceauthority.com`](https://google.com/search?q=www.fenceauthority.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-02 | [`www.gruyeria.ch`](https://google.com/search?q=www.gruyeria.ch) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-02 | [`www.lfewines.com`](https://google.com/search?q=www.lfewines.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-09-02 | [`grant-associates.uk.com`](https://google.com/search?q=grant-associates.uk.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
