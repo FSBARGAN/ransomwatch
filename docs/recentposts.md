@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-18 | [`ringpower.com`](https://google.com/search?q=ringpower.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-18 | [`www.quenotedeporten.com`](https://google.com/search?q=www.quenotedeporten.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-18 | [`New Electric`](https://google.com/search?q=New+Electric) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-09-18 | [`AutoCanada`](https://google.com/search?q=AutoCanada) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-09-01 | [`tjs.com`](https://google.com/search?q=tjs.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-09-01 | [`Quálitas México`](https://google.com/search?q=Qu%C3%A1litas+M%C3%A9xico) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-09-01 | [`Navitas Semiconductor`](https://google.com/search?q=Navitas+Semiconductor) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-09-01 | [`Sports & Spine Orthopaedics`](https://google.com/search?q=Sports+%26+Spine+Orthopaedics) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
