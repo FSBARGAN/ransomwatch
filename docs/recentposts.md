@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-19 | [`topdoctors.com`](https://google.com/search?q=topdoctors.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-19 | [`www.8010urbanliving.com`](https://google.com/search?q=www.8010urbanliving.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-19 | [`www.taperuvicha.com`](https://google.com/search?q=www.taperuvicha.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-18 | [`Plaisted Companies`](https://google.com/search?q=Plaisted+Companies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-09-02 | [`www.sanyo-av.com&lt;Taiwan&gt;`](https://google.com/search?q=www.sanyo-av.com%26lt%3BTaiwan%26gt%3B) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-02 | [`www.electriforce.com`](https://google.com/search?q=www.electriforce.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-02 | [`www.johnkellys.com`](https://google.com/search?q=www.johnkellys.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-09-02 | [`www.fenceauthority.com`](https://google.com/search?q=www.fenceauthority.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
