@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-19 | [`www.tta.cls`](https://google.com/search?q=www.tta.cls) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-19 | [`www.faithfc.org`](https://google.com/search?q=www.faithfc.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-19 | [`tims.com`](https://google.com/search?q=tims.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-09-19 | [`www.adantia.es`](https://google.com/search?q=www.adantia.es) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-09-02 | [`www.pokerspa.it`](https://google.com/search?q=www.pokerspa.it) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-02 | [`Removal.AI`](https://google.com/search?q=Removal.AI) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-02 | [`Project Hospitality`](https://google.com/search?q=Project+Hospitality) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2024-09-02 | [`www.schneider.ch`](https://google.com/search?q=www.schneider.ch) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
