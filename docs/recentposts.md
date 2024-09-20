@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-20 | [`SuperCommerce.ai`](https://google.com/search?q=SuperCommerce.ai) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-09-20 | [`River Region Cardiology Associates`](https://google.com/search?q=River+Region+Cardiology+Associates) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-09-20 | [`miit.gov.cn`](https://google.com/search?q=miit.gov.cn) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-09-20 | [`Greene Acres Nursing Home`](https://google.com/search?q=Greene+Acres+Nursing+Home) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-09-04 | [`mcphillips.co.uk\$40.8M\United Kingdom\1.2TB\&lt;1% DISCLOSED`](https://google.com/search?q=mcphillips.co.uk%5C%2440.8M%5CUnited+Kingdom%5C1.2TB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-09-03 | [`balboabayresort.com\$101M\USA\790GB\&lt;1% DISCLOSED`](https://google.com/search?q=balboabayresort.com%5C%24101M%5CUSA%5C790GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-09-03 | [`rangeramerican.com\$52.9M\USA\218GB\&lt;1% DISCLOSED`](https://google.com/search?q=rangeramerican.com%5C%2452.9M%5CUSA%5C218GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-09-03 | [`Turman `](https://google.com/search?q=Turman+) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
