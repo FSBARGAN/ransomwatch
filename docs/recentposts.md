@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-21 | [`Messe C`](https://google.com/search?q=Messe+C) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-09-20 | [`Jackson Paper Manufacturing`](https://google.com/search?q=Jackson+Paper+Manufacturing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-09-20 | [`Mason City Recycling Center`](https://google.com/search?q=Mason+City+Recycling+Center) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-09-20 | [`KW Realty Group`](https://google.com/search?q=KW+Realty+Group) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-09-04 | [`Sunrise Erectors`](https://google.com/search?q=Sunrise+Erectors) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-09-04 | [`www.iiitd.ac.in`](https://google.com/search?q=www.iiitd.ac.in) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-04 | [`simson-maxwell.com\$29.4M\Canada\357GB\&lt;1% DISCLOSED`](https://google.com/search?q=simson-maxwell.com%5C%2429.4M%5CCanada%5C357GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-09-04 | [`flodraulic.com\$58.4M\USA\32GB\&lt;1% DISCLOSED`](https://google.com/search?q=flodraulic.com%5C%2458.4M%5CUSA%5C32GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
