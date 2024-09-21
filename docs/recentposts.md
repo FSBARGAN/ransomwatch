@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-21 | [`savannahcandy.com`](https://google.com/search?q=savannahcandy.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-21 | [`Acho.io`](https://google.com/search?q=Acho.io) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-21 | [`https://capitalprintingco.com`](https://google.com/search?q=https%3A%2F%2Fcapitalprintingco.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
 | 2024-09-21 | [`virainsight.com`](https://google.com/search?q=virainsight.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-09-05 | [`Western Supplies, Inc`](https://google.com/search?q=Western+Supplies%2C+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-09-04 | [`Crain Group`](https://google.com/search?q=Crain+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-09-04 | [`Bakersfield`](https://google.com/search?q=Bakersfield) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-09-04 | [`www.pcipa.com`](https://google.com/search?q=www.pcipa.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
