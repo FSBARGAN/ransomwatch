@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-22 | [`Cruz Marine (cruz.local)`](https://google.com/search?q=Cruz+Marine+%28cruz.local%29) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2024-09-22 | [`Daughterly Care`](https://google.com/search?q=Daughterly+Care) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-09-22 | [`Tranter (tcn.local)`](https://google.com/search?q=Tranter+%28tcn.local%29) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2024-09-22 | [`Handala&#8217;s statement`](https://google.com/search?q=Handala%26%238217%3Bs+statement) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-09-05 | [`tri-tech.us`](https://google.com/search?q=tri-tech.us) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-05 | [`www.towellengineering.net`](https://google.com/search?q=www.towellengineering.net) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-05 | [`Baird Mandalas Brock stedt LLC`](https://google.com/search?q=Baird+Mandalas+Brock+stedt+LLC) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-09-05 | [`Imetame`](https://google.com/search?q=Imetame) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
