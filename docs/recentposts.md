@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-23 | [`f-t.com`](https://google.com/search?q=f-t.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-09-23 | [`Detroit Public TV`](https://google.com/search?q=Detroit+Public+TV) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-09-23 | [`Pureform Radiology Center`](https://google.com/search?q=Pureform+Radiology+Center) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-09-23 | [`Fabrica Industrial Machinery &amp; Equipment`](https://google.com/search?q=Fabrica+Industrial+Machinery+%26amp%3B+Equipment) | [trinity](https://ransomwatch.telemetry.ltd/#/profiles?id=trinity) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-09-06 | [`riomarineinc.com\$56M\USA\490GB\&lt;1% DISCLOSED`](https://google.com/search?q=riomarineinc.com%5C%2456M%5CUSA%5C490GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-09-06 | [`champeau.com\$25.5M\Canada\130GB\&lt;1% DISCLOSED`](https://google.com/search?q=champeau.com%5C%2425.5M%5CCanada%5C130GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-09-06 | [`Inglenorth.co.uk`](https://google.com/search?q=Inglenorth.co.uk) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-09-06 | [`cps-k12.org`](https://google.com/search?q=cps-k12.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
