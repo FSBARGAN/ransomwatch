@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-24 | [`medicheck.io`](https://google.com/search?q=medicheck.io) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-09-24 | [`bakpilic.com.tr`](https://google.com/search?q=bakpilic.com.tr) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-24 | [`tellurianinc.org`](https://google.com/search?q=tellurianinc.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-24 | [`Avi Resort & Casino`](https://google.com/search?q=Avi+Resort+%26+Casino) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-09-07 | [`www.citebd.org`](https://google.com/search?q=www.citebd.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-07 | [`Millsboro Animal Hospital`](https://google.com/search?q=Millsboro+Animal+Hospital) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-09-07 | [`www.galgorm.com&lt;Auction&gt;`](https://google.com/search?q=www.galgorm.com%26lt%3BAuction%26gt%3B) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-09-07 | [`kawasaki.eu`](https://google.com/search?q=kawasaki.eu) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
