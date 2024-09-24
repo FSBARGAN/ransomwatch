@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-24 | [`Brown Bottling Group`](https://google.com/search?q=Brown+Bottling+Group) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-09-24 | [`Idre Fjäll`](https://google.com/search?q=Idre+Fj%C3%A4ll) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-09-24 | [`Eurobulk`](https://google.com/search?q=Eurobulk) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-09-24 | [`DIamond Contracting, LLC`](https://google.com/search?q=DIamond+Contracting%2C+LLC) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-09-07 | [`NIDEC CORPORATION Data Leak`](https://google.com/search?q=NIDEC+CORPORATION+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-09-06 | [`briedis.lt`](https://google.com/search?q=briedis.lt) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-06 | [`CK Associates`](https://google.com/search?q=CK+Associates) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-09-06 | [`Keya Accounting and Tax Services LLC`](https://google.com/search?q=Keya+Accounting+and+Tax+Services+LLC) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
