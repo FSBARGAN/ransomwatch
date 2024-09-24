@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-24 | [`Idre Fjäll`](https://google.com/search?q=Idre+Fj%C3%A4ll) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-09-24 | [`Eurobulk`](https://google.com/search?q=Eurobulk) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-09-24 | [`DIamond Contracting, LLC`](https://google.com/search?q=DIamond+Contracting%2C+LLC) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-09-23 | [`Kravit, Hovel &amp; Krawczyk  SC`](https://google.com/search?q=Kravit%2C+Hovel+%26amp%3B+Krawczyk++SC) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-09-06 | [`briedis.lt`](https://google.com/search?q=briedis.lt) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-06 | [`CK Associates`](https://google.com/search?q=CK+Associates) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-09-06 | [`Keya Accounting and Tax Services LLC`](https://google.com/search?q=Keya+Accounting+and+Tax+Services+LLC) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-09-06 | [`phdservices.net`](https://google.com/search?q=phdservices.net) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
