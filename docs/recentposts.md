@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-25 | [`Luso Cuanzа`](https://google.com/search?q=Luso+Cuanz%D0%B0) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-09-25 | [`ATG Communications G roup`](https://google.com/search?q=ATG+Communications+G+roup) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-09-25 | [`Partners Air`](https://google.com/search?q=Partners+Air) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-09-25 | [`hindlegroup.com\$30.6M\United Kingdom\380GB\&lt;1% DISCLOSED`](https://google.com/search?q=hindlegroup.com%5C%2430.6M%5CUnited+Kingdom%5C380GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-09-08 | [`https://www.brooker-cpa.com`](https://google.com/search?q=https%3A%2F%2Fwww.brooker-cpa.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
 | 2024-09-08 | [`https://www.khoocpa.com/`](https://google.com/search?q=https%3A%2F%2Fwww.khoocpa.com%2F) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
 | 2024-09-08 | [`Stratford School Academy`](https://google.com/search?q=Stratford+School+Academy) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2024-09-08 | [`welland-corp.com`](https://google.com/search?q=welland-corp.com) | [trinity](https://ransomwatch.telemetry.ltd/#/profiles?id=trinity) |
