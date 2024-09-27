@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-27 | [`English Construction Company`](https://google.com/search?q=English+Construction+Company) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2024-09-27 | [`triverus.com`](https://google.com/search?q=triverus.com) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2024-09-27 | [`Benny Gantz Hacked`](https://google.com/search?q=Benny+Gantz+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2024-09-27 | [`Israel defense minister private photos`](https://google.com/search?q=Israel+defense+minister+private+photos) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-09-10 | [`americagraphics.com`](https://google.com/search?q=americagraphics.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-10 | [`HDI`](https://google.com/search?q=HDI) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-09-10 | [`Qeco/coeq`](https://google.com/search?q=Qeco%2Fcoeq) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2024-09-10 | [`Bank Rakyat`](https://google.com/search?q=Bank+Rakyat) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
