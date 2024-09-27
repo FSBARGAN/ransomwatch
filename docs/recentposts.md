@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-27 | [`Israel defense minister private photos`](https://google.com/search?q=Israel+defense+minister+private+photos) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2024-09-27 | [`actionfirepros.com\$17.4M\USA\407GB\&lt;1% DISCLOSED`](https://google.com/search?q=actionfirepros.com%5C%2417.4M%5CUSA%5C407GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-09-27 | [`www.law-taxes.pl`](https://google.com/search?q=www.law-taxes.pl) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-27 | [`www.tokiwa-group.co.jp`](https://google.com/search?q=www.tokiwa-group.co.jp) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-09-10 | [`Bank Rakyat`](https://google.com/search?q=Bank+Rakyat) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-09-10 | [`kahle cpa`](https://google.com/search?q=kahle+cpa) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-09-10 | [`CAM - Tyre Trade Systems &amp; Solutions`](https://google.com/search?q=CAM+-+Tyre+Trade+Systems+%26amp%3B+Solutions) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-09-10 | [`Anniversary Holding`](https://google.com/search?q=Anniversary+Holding) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
