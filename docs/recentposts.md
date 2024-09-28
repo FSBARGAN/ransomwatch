@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-28 | [`www.contegritygroup.com`](https://google.com/search?q=www.contegritygroup.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-28 | [`PipelBiz.com`](https://google.com/search?q=PipelBiz.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-28 | [`http://www.southernfiresprinkler.com`](https://google.com/search?q=http%3A%2F%2Fwww.southernfiresprinkler.com) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
 | 2024-09-27 | [`infina.vn`](https://google.com/search?q=infina.vn) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-09-10 | [`Elgin Separation Solutions`](https://google.com/search?q=Elgin+Separation+Solutions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-09-10 | [`Bel-Air Bay Club`](https://google.com/search?q=Bel-Air+Bay+Club) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-09-10 | [`www.avf-biomedical.com`](https://google.com/search?q=www.avf-biomedical.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-09-10 | [`Vickers Engineering`](https://google.com/search?q=Vickers+Engineering) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
