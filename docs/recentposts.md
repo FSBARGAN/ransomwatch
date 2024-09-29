@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-29 | [`4B Components`](https://google.com/search?q=4B+Components) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-09-29 | [`cdc-biodiversite.fr`](https://google.com/search?q=cdc-biodiversite.fr) | [blackout](https://ransomwatch.telemetry.ltd/#/profiles?id=blackout) |
 | 2024-09-29 | [`markdom.com`](https://google.com/search?q=markdom.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-29 | [`Soreq NRC Hacked`](https://google.com/search?q=Soreq+NRC+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-09-11 | [`Weldco-Beales Manufacturing`](https://google.com/search?q=Weldco-Beales+Manufacturing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-09-11 | [`Virginia Dare Extract Co.`](https://google.com/search?q=Virginia+Dare+Extract+Co.) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-09-11 | [`Southeast Cooler`](https://google.com/search?q=Southeast+Cooler) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-09-11 | [`Ladov Law Firm`](https://google.com/search?q=Ladov+Law+Firm) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
