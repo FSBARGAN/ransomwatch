@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-30 | [`Condere Ip, Infracom Group`](https://google.com/search?q=Condere+Ip%2C+Infracom+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-09-30 | [`Classic Business Products`](https://google.com/search?q=Classic+Business+Products) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-09-30 | [`Andantex USA`](https://google.com/search?q=Andantex+USA) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-09-29 | [`Affirm Agency`](https://google.com/search?q=Affirm+Agency) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-09-11 | [`rangeramerican.com\$52.9M\USA\218GB\100% DISCLOSED`](https://google.com/search?q=rangeramerican.com%5C%2452.9M%5CUSA%5C218GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-09-11 | [`http://cdarwin.com`](https://google.com/search?q=http%3A%2F%2Fcdarwin.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-09-11 | [`ICBC London`](https://google.com/search?q=ICBC+London) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-09-11 | [`https://www.kadokawa.co.jp/`](https://google.com/search?q=https%3A%2F%2Fwww.kadokawa.co.jp%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
