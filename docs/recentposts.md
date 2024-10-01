@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-01 | [`Enviromental Design  International`](https://google.com/search?q=Enviromental+Design++International) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-10-01 | [`www.asobostudio.com`](https://google.com/search?q=www.asobostudio.com) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2024-10-01 | [`Turman`](https://google.com/search?q=Turman) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-10-01 | [`performance-therapies`](https://google.com/search?q=performance-therapies) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-09-13 | [`Clatronic International GmbH`](https://google.com/search?q=Clatronic+International+GmbH) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-09-13 | [`CNPS Cameroun`](https://google.com/search?q=CNPS+Cameroun) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2024-09-13 | [`schynsassurances.be`](https://google.com/search?q=schynsassurances.be) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-09-13 | [`pv.be`](https://google.com/search?q=pv.be) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
