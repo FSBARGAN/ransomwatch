@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-02 | [`mnpl.com.sg`](https://google.com/search?q=mnpl.com.sg) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2024-10-02 | [`Cascade Columbia Dis tribution`](https://google.com/search?q=Cascade+Columbia+Dis+tribution) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-10-02 | [`ShoreMaster`](https://google.com/search?q=ShoreMaster) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-10-01 | [`United Animal Health`](https://google.com/search?q=United+Animal+Health) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-09-13 | [`Benson Kearley IFG - Insurance Brokers and Financial Advisors`](https://google.com/search?q=Benson+Kearley+IFG+-+Insurance+Brokers+and+Financial+Advisors) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-09-13 | [`www.mivideo.club`](https://google.com/search?q=www.mivideo.club) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2024-09-13 | [`https://hostetlergroup.com/`](https://google.com/search?q=https%3A%2F%2Fhostetlergroup.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-09-13 | [`Associated Building Specialties`](https://google.com/search?q=Associated+Building+Specialties) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
