@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-02 | [`Holmes & Brakel`](https://google.com/search?q=Holmes+%26+Brakel) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-10-02 | [`credihealth.com`](https://google.com/search?q=credihealth.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-10-02 | [`telehealthcenter.in`](https://google.com/search?q=telehealthcenter.in) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-10-02 | [`carlile-group.com`](https://google.com/search?q=carlile-group.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-09-14 | [`ecbawm.com`](https://google.com/search?q=ecbawm.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-09-14 | [`True Family Enterprises`](https://google.com/search?q=True+Family+Enterprises) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-09-14 | [`Dimensional Merchandising`](https://google.com/search?q=Dimensional+Merchandising) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-09-14 | [`Creative Playthings`](https://google.com/search?q=Creative+Playthings) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
