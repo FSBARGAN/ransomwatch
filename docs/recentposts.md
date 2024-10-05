@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-05 | [`Amplitude Laser`](https://google.com/search?q=Amplitude+Laser) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-10-05 | [`http://www.copysmart.us`](https://google.com/search?q=http%3A%2F%2Fwww.copysmart.us) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
 | 2024-10-05 | [`https://genproinc.com/`](https://google.com/search?q=https%3A%2F%2Fgenproinc.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-10-05 | [`Wilmington Convention Center`](https://google.com/search?q=Wilmington+Convention+Center) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-09-17 | [`Rsp`](https://google.com/search?q=Rsp) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-09-17 | [`Protective Industrial Products`](https://google.com/search?q=Protective+Industrial+Products) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-09-17 | [`Inktel`](https://google.com/search?q=Inktel) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-09-17 | [`Hariri Pontarini Architects`](https://google.com/search?q=Hariri+Pontarini+Architects) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
