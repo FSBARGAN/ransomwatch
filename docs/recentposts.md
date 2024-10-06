@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-06 | [`kleberandassociates.com`](https://google.com/search?q=kleberandassociates.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-06 | [`omniboxx.nl`](https://google.com/search?q=omniboxx.nl) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-06 | [`canstarrestorations.com`](https://google.com/search?q=canstarrestorations.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-06 | [`www.ravencm.com`](https://google.com/search?q=www.ravencm.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-09-18 | [`ringpower.com`](https://google.com/search?q=ringpower.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-18 | [`www.quenotedeporten.com`](https://google.com/search?q=www.quenotedeporten.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-18 | [`New Electric`](https://google.com/search?q=New+Electric) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-09-18 | [`AutoCanada`](https://google.com/search?q=AutoCanada) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
