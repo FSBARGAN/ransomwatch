@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-06 | [`Ibermutuamur`](https://google.com/search?q=Ibermutuamur) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-10-06 | [`Power Torque Services`](https://google.com/search?q=Power+Torque+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-10-06 | [`Creative Consumer Concepts`](https://google.com/search?q=Creative+Consumer+Concepts) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-10-05 | [`www.aosense.com`](https://google.com/search?q=www.aosense.com) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-09-18 | [`gestiriego.com`](https://google.com/search?q=gestiriego.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2024-09-17 | [`riomarineinc.com\$56M\USA\490GB\100% DISCLOSED`](https://google.com/search?q=riomarineinc.com%5C%2456M%5CUSA%5C490GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-09-17 | [`champeau.com\$25.5M\Canada\130GB\100% DISCLOSED`](https://google.com/search?q=champeau.com%5C%2425.5M%5CCanada%5C130GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-09-17 | [`natcoglobal.com\$38.5M\USA\111GB\100% DISCLOSED`](https://google.com/search?q=natcoglobal.com%5C%2438.5M%5CUSA%5C111GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
