@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-07 | [`agapefrance.org`](https://google.com/search?q=agapefrance.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-07 | [`Broward Realty Corp`](https://google.com/search?q=Broward+Realty+Corp) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-10-06 | [`acdcexpress.com`](https://google.com/search?q=acdcexpress.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-06 | [`seoulpi.io`](https://google.com/search?q=seoulpi.io) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-09-18 | [`Plaisted Companies`](https://google.com/search?q=Plaisted+Companies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-09-18 | [`Bertelkamp Automation `](https://google.com/search?q=Bertelkamp+Automation+) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-09-18 | [`DJH Jugendherberge`](https://google.com/search?q=DJH+Jugendherberge) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-09-18 | [`www.plumbersstock.com`](https://google.com/search?q=www.plumbersstock.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
