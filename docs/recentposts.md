@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-08 | [`dmmerch.com`](https://google.com/search?q=dmmerch.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-08 | [`divaris.com`](https://google.com/search?q=divaris.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-08 | [`designintoto.com.au`](https://google.com/search?q=designintoto.com.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-08 | [`customssupport.be`](https://google.com/search?q=customssupport.be) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-09-20 | [`SuperCommerce.ai`](https://google.com/search?q=SuperCommerce.ai) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-09-20 | [`River Region Cardiology Associates`](https://google.com/search?q=River+Region+Cardiology+Associates) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-09-20 | [`miit.gov.cn`](https://google.com/search?q=miit.gov.cn) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-09-20 | [`Greene Acres Nursing Home`](https://google.com/search?q=Greene+Acres+Nursing+Home) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
