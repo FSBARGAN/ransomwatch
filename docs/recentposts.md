@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-10 | [`ignitarium.com`](https://google.com/search?q=ignitarium.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-10 | [`huntongroup.com`](https://google.com/search?q=huntongroup.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-10 | [`hphood.com`](https://google.com/search?q=hphood.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-10 | [`homelandvinyl.com`](https://google.com/search?q=homelandvinyl.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-09-22 | [`Cruz Marine (cruz.local)`](https://google.com/search?q=Cruz+Marine+%28cruz.local%29) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2024-09-22 | [`Daughterly Care`](https://google.com/search?q=Daughterly+Care) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-09-22 | [`Tranter (tcn.local)`](https://google.com/search?q=Tranter+%28tcn.local%29) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
-| 2024-09-22 | [`Handala&#8217;s statement`](https://google.com/search?q=Handala%26%238217%3Bs+statement) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
