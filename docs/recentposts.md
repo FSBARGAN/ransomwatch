@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-10 | [`homelandvinyl.com`](https://google.com/search?q=homelandvinyl.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-10 | [`gptchb.org`](https://google.com/search?q=gptchb.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-10 | [`goldstarmetal.com`](https://google.com/search?q=goldstarmetal.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-10 | [`glsco.com`](https://google.com/search?q=glsco.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-09-22 | [`Handala&#8217;s statement`](https://google.com/search?q=Handala%26%238217%3Bs+statement) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2024-09-22 | [`Woodard , Hernandez , Roth &amp; Day`](https://google.com/search?q=Woodard+%2C+Hernandez+%2C+Roth+%26amp%3B+Day) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-09-22 | [`Vidisco Hacked`](https://google.com/search?q=Vidisco+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2024-09-22 | [`IIB ( Israeli Industrial Batteries ) Hacked`](https://google.com/search?q=IIB+%28+Israeli+Industrial+Batteries+%29+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
