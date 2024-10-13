@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-13 | [`salaam.af`](https://google.com/search?q=salaam.af) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-13 | [`robesoncoso.org`](https://google.com/search?q=robesoncoso.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-13 | [`rhp.com.br`](https://google.com/search?q=rhp.com.br) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-13 | [`qespavements.com`](https://google.com/search?q=qespavements.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-09-26 | [`https://fabricasrl.com.ar`](https://google.com/search?q=https%3A%2F%2Ffabricasrl.com.ar) | [trinity](https://ransomwatch.telemetry.ltd/#/profiles?id=trinity) |
 | 2024-09-26 | [`DETROIT PBS ( PUBLIC TV )`](https://google.com/search?q=DETROIT+PBS+%28+PUBLIC+TV+%29) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-09-25 | [`Frigocenter`](https://google.com/search?q=Frigocenter) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
-| 2024-09-25 | [`Concord Management S ervices`](https://google.com/search?q=Concord+Management+S+ervices) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
