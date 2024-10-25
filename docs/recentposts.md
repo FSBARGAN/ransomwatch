@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-25 | [`Matouk Bassiouny`](https://google.com/search?q=Matouk+Bassiouny) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-10-25 | [`https://www.deschampsimp.com/`](https://google.com/search?q=https%3A%2F%2Fwww.deschampsimp.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-10-25 | [`****`](https://google.com/search?q=%2A%2A%2A%2A) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-10-25 | [`Spine by Villamil MD`](https://google.com/search?q=Spine+by+Villamil+MD) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-09 | [`dowley.com`](https://google.com/search?q=dowley.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-08 | [`dmmerch.com`](https://google.com/search?q=dmmerch.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-08 | [`divaris.com`](https://google.com/search?q=divaris.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-10-08 | [`designintoto.com.au`](https://google.com/search?q=designintoto.com.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
