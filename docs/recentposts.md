@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-25 | [`https://www.zyloware.com/`](https://google.com/search?q=https%3A%2F%2Fwww.zyloware.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-10-25 | [`https://www.omara-ag.com/`](https://google.com/search?q=https%3A%2F%2Fwww.omara-ag.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-10-25 | [`https://www.nrcs.net/`](https://google.com/search?q=https%3A%2F%2Fwww.nrcs.net%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-10-25 | [`Matouk Bassiouny`](https://google.com/search?q=Matouk+Bassiouny) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-09 | [`efile.com`](https://google.com/search?q=efile.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-09 | [`eastern-sales.com`](https://google.com/search?q=eastern-sales.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-09 | [`e21c.co.uk`](https://google.com/search?q=e21c.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-10-09 | [`dowley.com`](https://google.com/search?q=dowley.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
