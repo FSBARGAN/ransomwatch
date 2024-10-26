@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-26 | [`TR****GB`](https://google.com/search?q=TR%2A%2A%2A%2AGB) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-10-26 | [`Premier Work Support`](https://google.com/search?q=Premier+Work+Support) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-10-26 | [`ATTENTION!`](https://google.com/search?q=ATTENTION%21) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
 | 2024-10-25 | [`picsolve.com\$32M\USA\620GB\&lt;1% DISCLOSED`](https://google.com/search?q=picsolve.com%5C%2432M%5CUSA%5C620GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-09 | [`fanningfanning.com`](https://google.com/search?q=fanningfanning.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-09 | [`fairfieldmemorial.org`](https://google.com/search?q=fairfieldmemorial.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-09 | [`exol-lubricants.com`](https://google.com/search?q=exol-lubricants.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-10-09 | [`energateinc.com`](https://google.com/search?q=energateinc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
