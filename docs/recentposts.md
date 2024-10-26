@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-26 | [`https://wescan-services.com`](https://google.com/search?q=https%3A%2F%2Fwescan-services.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-10-26 | [`Niko Resources Ltd.`](https://google.com/search?q=Niko+Resources+Ltd.) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-10-26 | [`Ambica Steels`](https://google.com/search?q=Ambica+Steels) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-10-26 | [`carolinaarthritis.com`](https://google.com/search?q=carolinaarthritis.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-10 | [`gbricambi.it`](https://google.com/search?q=gbricambi.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-10 | [`frilot.com`](https://google.com/search?q=frilot.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-10 | [`fremontschools.net`](https://google.com/search?q=fremontschools.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-10-09 | [`fivestarproducts.com`](https://google.com/search?q=fivestarproducts.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
