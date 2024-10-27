@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-27 | [`Positive Business Solutions`](https://google.com/search?q=Positive+Business+Solutions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-10-26 | [`C & C Industries`](https://google.com/search?q=C+%26+C+Industries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-10-26 | [`www.kciconst.com`](https://google.com/search?q=www.kciconst.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-26 | [`www.resourceinternational.com`](https://google.com/search?q=www.resourceinternational.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-10 | [`homelandvinyl.com`](https://google.com/search?q=homelandvinyl.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-10 | [`gptchb.org`](https://google.com/search?q=gptchb.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-10 | [`goldstarmetal.com`](https://google.com/search?q=goldstarmetal.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-10-10 | [`glsco.com`](https://google.com/search?q=glsco.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
