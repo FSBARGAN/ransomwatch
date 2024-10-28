@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-28 | [`harrispersonalinjury.com`](https://google.com/search?q=harrispersonalinjury.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-28 | [`powiatjedrzejow.pl`](https://google.com/search?q=powiatjedrzejow.pl) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-28 | [`mauguio-carnon.com`](https://google.com/search?q=mauguio-carnon.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-28 | [`donbosco-landser.net`](https://google.com/search?q=donbosco-landser.net) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-12 | [`legacycpas.com`](https://google.com/search?q=legacycpas.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-11 | [`latinusa.co.id`](https://google.com/search?q=latinusa.co.id) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-11 | [`lakelandchamber.com`](https://google.com/search?q=lakelandchamber.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-10-11 | [`[DISCLOSED][i2p-torrent] Roberto Verino Difusion`](https://google.com/search?q=%5BDISCLOSED%5D%5Bi2p-torrent%5D+Roberto+Verino+Difusion) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
