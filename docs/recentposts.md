@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-28 | [`donbosco-landser.net`](https://google.com/search?q=donbosco-landser.net) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-28 | [`1doc.sg`](https://google.com/search?q=1doc.sg) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-28 | [`tkg.com`](https://google.com/search?q=tkg.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-27 | [`lpahorticole.faylbillot.educagri.fr`](https://google.com/search?q=lpahorticole.faylbillot.educagri.fr) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-11 | [`[DISCLOSED][i2p-torrent] Roberto Verino Difusion`](https://google.com/search?q=%5BDISCLOSED%5D%5Bi2p-torrent%5D+Roberto+Verino+Difusion) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-10-11 | [`[DISCLOSED][i2p-torrent]Jangho Group`](https://google.com/search?q=%5BDISCLOSED%5D%5Bi2p-torrent%5DJangho+Group) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-10-11 | [`kumhotire.com`](https://google.com/search?q=kumhotire.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-10-11 | [`kronospublic.com`](https://google.com/search?q=kronospublic.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
