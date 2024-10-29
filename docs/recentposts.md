@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-29 | [`Distribution Alternatives, Inc.`](https://google.com/search?q=Distribution+Alternatives%2C+Inc.) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-10-29 | [`CELO`](https://google.com/search?q=CELO) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-10-29 | [`anhf.org.auh`](https://google.com/search?q=anhf.org.auh) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-10-29 | [`[DISCLOSED]Fursan Travel`](https://google.com/search?q=%5BDISCLOSED%5DFursan+Travel) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-13 | [`policiaauxiliarcusaem.com.mx`](https://google.com/search?q=policiaauxiliarcusaem.com.mx) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-13 | [`plantmachineworks.com`](https://google.com/search?q=plantmachineworks.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-13 | [`pkf.com.au`](https://google.com/search?q=pkf.com.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-10-13 | [`piedmonthoist.com`](https://google.com/search?q=piedmonthoist.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
