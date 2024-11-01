@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-01 | [`patria.hu`](https://google.com/search?q=patria.hu) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-11-01 | [`Sabesp`](https://google.com/search?q=Sabesp) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-11-01 | [`MCNA Dental Data Leak`](https://google.com/search?q=MCNA+Dental+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-11-01 | [`CreaGen Inc Data Leak`](https://google.com/search?q=CreaGen+Inc+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-16 | [`CETRULO`](https://google.com/search?q=CETRULO) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-10-16 | [`Corporate Job Bank`](https://google.com/search?q=Corporate+Job+Bank) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-10-16 | [`Lein Law Offices`](https://google.com/search?q=Lein+Law+Offices) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-10-15 | [`Boston Children's Health Physicians`](https://google.com/search?q=Boston+Children%27s+Health+Physicians) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
