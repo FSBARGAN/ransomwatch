@@ -67698,5 +67698,10 @@
         "post_title": "MCNA Dental Data Leak",
         "group_name": "everest",
         "discovered": "2024-11-01 10:46:29.584285"
+    },
+    {
+        "post_title": "Sabesp",
+        "group_name": "ransomhouse",
+        "discovered": "2024-11-01 12:56:29.798157"
     }
 ]
