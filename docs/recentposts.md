@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-02 | [`Groupe Althays`](https://google.com/search?q=Groupe+Althays) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-11-02 | [`AIMS, Inc. - Fuel Business Accounting Software, Jobber Software - Wholesale Petroleum Acco`](https://google.com/search?q=AIMS%2C+Inc.+-+Fuel+Business+Accounting+Software%2C+Jobber+Software+-+Wholesale+Petroleum+Acco) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-11-02 | [`Freyberg Petroleum`](https://google.com/search?q=Freyberg+Petroleum) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-11-02 | [`aziz oil`](https://google.com/search?q=aziz+oil) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-16 | [`Henry County Schools`](https://google.com/search?q=Henry+County+Schools) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-10-16 | [`http://vra.com`](https://google.com/search?q=http%3A%2F%2Fvra.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-10-16 | [`victrongroup.com`](https://google.com/search?q=victrongroup.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
-| 2024-10-16 | [`promise.com`](https://google.com/search?q=promise.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
