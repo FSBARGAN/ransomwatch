@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-03 | [`anuenterprise.com.au`](https://google.com/search?q=anuenterprise.com.au) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2024-11-03 | [`inhometexas.com`](https://google.com/search?q=inhometexas.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2024-11-03 | [`synertrade.com\$42M\USA\3TB\100% DISCLOSED`](https://google.com/search?q=synertrade.com%5C%2442M%5CUSA%5C3TB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-11-03 | [`lsst.ac\$72.2M\United Kingdom\845GB\&lt;1% DISCLOSED`](https://google.com/search?q=lsst.ac%5C%2472.2M%5CUnited+Kingdom%5C845GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-18 | [`Rumpke Consolidated Companies`](https://google.com/search?q=Rumpke+Consolidated+Companies) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-10-18 | [`Protective Industrial Products`](https://google.com/search?q=Protective+Industrial+Products) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-10-18 | [`Parnell Defense`](https://google.com/search?q=Parnell+Defense) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-10-18 | [`Glacier`](https://google.com/search?q=Glacier) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
