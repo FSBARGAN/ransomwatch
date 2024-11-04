@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-04 | [`www.schweiker.de`](https://google.com/search?q=www.schweiker.de) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-04 | [`www.drbutlerandassociates.com`](https://google.com/search?q=www.drbutlerandassociates.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-04 | [`www.mssupply.com`](https://google.com/search?q=www.mssupply.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-04 | [`fullfordelectric.com`](https://google.com/search?q=fullfordelectric.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-19 | [`Wilkinson`](https://google.com/search?q=Wilkinson) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-10-19 | [`The Strainrite Companies`](https://google.com/search?q=The+Strainrite+Companies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-10-19 | [`Mid State Electric`](https://google.com/search?q=Mid+State+Electric) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-10-19 | [`McCody`](https://google.com/search?q=McCody) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
