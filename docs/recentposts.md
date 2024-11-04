@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-04 | [`www.mssupply.com`](https://google.com/search?q=www.mssupply.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-04 | [`fullfordelectric.com`](https://google.com/search?q=fullfordelectric.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-04 | [`European External Action Service (EEAS)`](https://google.com/search?q=European+External+Action+Service+%28EEAS%29) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-11-04 | [`Air Specialists Heating & Air Conditioning`](https://google.com/search?q=Air+Specialists+Heating+%26+Air+Conditioning) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-19 | [`Mid State Electric`](https://google.com/search?q=Mid+State+Electric) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-10-19 | [`McCody`](https://google.com/search?q=McCody) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-10-19 | [`Country Inn &#038; Suites by Radisson`](https://google.com/search?q=Country+Inn+%26%23038%3B+Suites+by+Radisson) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2024-10-18 | [`Absolute Machine Tools`](https://google.com/search?q=Absolute+Machine+Tools) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
