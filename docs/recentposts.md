@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-06 | [`pacificglazing.com`](https://google.com/search?q=pacificglazing.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-06 | [`metroelectric.com`](https://google.com/search?q=metroelectric.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-06 | [`sector5.ro`](https://google.com/search?q=sector5.ro) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-06 | [`Smitty's Supply`](https://google.com/search?q=Smitty%27s+Supply) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-21 | [`www.kersey.net`](https://google.com/search?q=www.kersey.net) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-20 | [`www.aristoiclassical.org`](https://google.com/search?q=www.aristoiclassical.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-20 | [`qs-group.com`](https://google.com/search?q=qs-group.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-10-20 | [`clinicia.com`](https://google.com/search?q=clinicia.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
