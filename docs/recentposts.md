@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-14 | [`betterhalf.ai`](https://google.com/search?q=betterhalf.ai) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-11-14 | [`yassir.com`](https://google.com/search?q=yassir.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-11-14 | [`healthyuturn.in`](https://google.com/search?q=healthyuturn.in) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-11-13 | [`Sercomm`](https://google.com/search?q=Sercomm) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-28 | [`[File Tree and Full Data Dump]VOP CZ`](https://google.com/search?q=%5BFile+Tree+and+Full+Data+Dump%5DVOP+CZ) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-10-28 | [`flueid.com`](https://google.com/search?q=flueid.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-28 | [`guymontigers.com`](https://google.com/search?q=guymontigers.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-10-28 | [`harrispersonalinjury.com`](https://google.com/search?q=harrispersonalinjury.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
