@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-15 | [`MENZIES CNAC (Jardine Aviation Services, Agility)`](https://google.com/search?q=MENZIES+CNAC+%28Jardine+Aviation+Services%2C+Agility%29) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2024-11-15 | [`fortinainvestments.com`](https://google.com/search?q=fortinainvestments.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-15 | [`Casio Computer Co., Ltd`](https://google.com/search?q=Casio+Computer+Co.%2C+Ltd) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
 | 2024-11-15 | [`hcsgcorp.com`](https://google.com/search?q=hcsgcorp.com) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-29 | [`Distribution Alternatives, Inc.`](https://google.com/search?q=Distribution+Alternatives%2C+Inc.) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-10-29 | [`CELO`](https://google.com/search?q=CELO) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-10-29 | [`anhf.org.auh`](https://google.com/search?q=anhf.org.auh) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
-| 2024-10-29 | [`[DISCLOSED]Fursan Travel`](https://google.com/search?q=%5BDISCLOSED%5DFursan+Travel) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
