@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-17 | [`Interbel`](https://google.com/search?q=Interbel) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-11-17 | [`Petropolis Pet Resort`](https://google.com/search?q=Petropolis+Pet+Resort) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-11-17 | [`Superior Quality Insurance Agency`](https://google.com/search?q=Superior+Quality+Insurance+Agency) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-11-17 | [`Vasesa`](https://google.com/search?q=Vasesa) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-31 | [`sandray.com`](https://google.com/search?q=sandray.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2024-10-31 | [`mpspromotions.com`](https://google.com/search?q=mpspromotions.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2024-10-31 | [`freedomhomecare.net`](https://google.com/search?q=freedomhomecare.net) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
-| 2024-10-31 | [`hacla.org\$1.9B\USA\861GB\&lt;1% DISCLOSED`](https://google.com/search?q=hacla.org%5C%241.9B%5CUSA%5C861GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
