@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-17 | [`https://www.luxwood.ca`](https://google.com/search?q=https%3A%2F%2Fwww.luxwood.ca) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
 | 2024-11-17 | [`https://indiba.com`](https://google.com/search?q=https%3A%2F%2Findiba.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
 | 2024-11-17 | [`Ge****og`](https://google.com/search?q=Ge%2A%2A%2A%2Aog) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-11-17 | [`Gu****me`](https://google.com/search?q=Gu%2A%2A%2A%2Ame) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-01 | [`MCNA Dental Data Leak`](https://google.com/search?q=MCNA+Dental+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-11-01 | [`CreaGen Inc Data Leak`](https://google.com/search?q=CreaGen+Inc+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-11-01 | [`Country Inn &#038; Suites by Radisson Data Leak`](https://google.com/search?q=Country+Inn+%26%23038%3B+Suites+by+Radisson+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2024-11-01 | [`Broward Realty Corp Data Leak`](https://google.com/search?q=Broward+Realty+Corp+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
