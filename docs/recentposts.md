@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-18 | [`lumiplan.com\$49.2M\France\652GB\100% DISCLOSED`](https://google.com/search?q=lumiplan.com%5C%2449.2M%5CFrance%5C652GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-11-18 | [`https://corstat.com`](https://google.com/search?q=https%3A%2F%2Fcorstat.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
 | 2024-11-18 | [`http://dubingroup.com`](https://google.com/search?q=http%3A%2F%2Fdubingroup.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
 | 2024-11-18 | [`https://rdccontrol.com`](https://google.com/search?q=https%3A%2F%2Frdccontrol.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-01 | [`PetroSouth`](https://google.com/search?q=PetroSouth) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-11-01 | [`www.mltmua.com`](https://google.com/search?q=www.mltmua.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-11-01 | [`vikurverk.is`](https://google.com/search?q=vikurverk.is) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-11-01 | [`mirandaproduce.com.ve`](https://google.com/search?q=mirandaproduce.com.ve) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
