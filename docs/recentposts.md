@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-23 | [`inthinking.net`](https://google.com/search?q=inthinking.net) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
 | 2024-11-23 | [`chsplumbing.com`](https://google.com/search?q=chsplumbing.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-22 | [`Trinity Petroleum Management, LLC`](https://google.com/search?q=Trinity+Petroleum+Management%2C+LLC) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-11-22 | [`tempaircompany.com`](https://google.com/search?q=tempaircompany.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-06 | [`apoyoconsultoria.com`](https://google.com/search?q=apoyoconsultoria.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-06 | [`nwhealthporter.com`](https://google.com/search?q=nwhealthporter.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-06 | [`pacificglazing.com`](https://google.com/search?q=pacificglazing.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-11-06 | [`metroelectric.com`](https://google.com/search?q=metroelectric.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
