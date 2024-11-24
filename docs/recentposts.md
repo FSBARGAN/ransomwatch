@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-24 | [`interborosd.org`](https://google.com/search?q=interborosd.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-24 | [`Thebike.com`](https://google.com/search?q=Thebike.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-23 | [`3ccaresystems.com`](https://google.com/search?q=3ccaresystems.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-23 | [`Jones & Mayer`](https://google.com/search?q=Jones+%26+Mayer) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-07 | [`www.rosito-bisani.com`](https://google.com/search?q=www.rosito-bisani.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-07 | [`lighthouseelectric.com`](https://google.com/search?q=lighthouseelectric.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-07 | [`geminiindustriesinc.com`](https://google.com/search?q=geminiindustriesinc.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-11-07 | [`krigerconstruction.com`](https://google.com/search?q=krigerconstruction.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
