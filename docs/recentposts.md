@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-27 | [`Pinnacle Plastic Products (pinnacleplasitcporducts.com)`](https://google.com/search?q=Pinnacle+Plastic+Products+%28pinnacleplasitcporducts.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-11-27 | [`Vermilion Parish School System`](https://google.com/search?q=Vermilion+Parish+School+System) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-11-27 | [`Complete Recycling Services (completerecyclingservices.com)`](https://google.com/search?q=Complete+Recycling+Services+%28completerecyclingservices.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-11-27 | [`CNHW Landscape Design, Ltd`](https://google.com/search?q=CNHW+Landscape+Design%2C+Ltd) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-10 | [`apollohospitals.com`](https://google.com/search?q=apollohospitals.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-11-10 | [`onedayevent.com`](https://google.com/search?q=onedayevent.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-11-10 | [`autodukan.com`](https://google.com/search?q=autodukan.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-11-10 | [`boloforms.com`](https://google.com/search?q=boloforms.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
