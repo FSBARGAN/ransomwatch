@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-01 | [`SCM GROUP`](https://google.com/search?q=SCM+GROUP) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2024-12-01 | [`GMG`](https://google.com/search?q=GMG) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2024-12-01 | [`Alpine Ear Nose and Throat`](https://google.com/search?q=Alpine+Ear+Nose+and+Throat) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-12-01 | [`Siltech (siltechcorp.local)`](https://google.com/search?q=Siltech+%28siltechcorp.local%29) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-15 | [`hcsgcorp.com`](https://google.com/search?q=hcsgcorp.com) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
 | 2024-11-15 | [`weisermemorialhospital.org`](https://google.com/search?q=weisermemorialhospital.org) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
 | 2024-11-14 | [`Memorial Hospital &amp; Manor`](https://google.com/search?q=Memorial+Hospital+%26amp%3B+Manor) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
-| 2024-11-14 | [`wexfordcounty.org`](https://google.com/search?q=wexfordcounty.org) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
