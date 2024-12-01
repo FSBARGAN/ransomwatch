@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-01 | [`Shin Bet Hacked`](https://google.com/search?q=Shin+Bet+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2024-12-01 | [`IIB ( Israeli Industrial Batteries ) Leaked`](https://google.com/search?q=IIB+%28+Israeli+Industrial+Batteries+%29+Leaked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2024-12-01 | [`Max Shop Hacked`](https://google.com/search?q=Max+Shop+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2024-11-30 | [`www.agenciatributaria.es`](https://google.com/search?q=www.agenciatributaria.es) | [trinity](https://ransomwatch.telemetry.ltd/#/profiles?id=trinity) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-14 | [`American Associated Pharmacies`](https://google.com/search?q=American+Associated+Pharmacies) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
 | 2024-11-14 | [`Pincu Barkan, Law Office and Notary`](https://google.com/search?q=Pincu+Barkan%2C+Law+Office+and+Notary) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-11-14 | [`naj.ae`](https://google.com/search?q=naj.ae) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
-| 2024-11-14 | [`nfe.fazenda.gov.br`](https://google.com/search?q=nfe.fazenda.gov.br) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
