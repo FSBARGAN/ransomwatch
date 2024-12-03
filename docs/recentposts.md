@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-03 | [`Conteg`](https://google.com/search?q=Conteg) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-12-03 | [`Goodwill North Central Texas`](https://google.com/search?q=Goodwill+North+Central+Texas) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-12-03 | [`Harel Insurance Hacked ( Shirbit Server )`](https://google.com/search?q=Harel+Insurance+Hacked+%28+Shirbit+Server+%29) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2024-12-03 | [`New Age Micro`](https://google.com/search?q=New+Age+Micro) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-16 | [`http://www.billyheromans.com`](https://google.com/search?q=http%3A%2F%2Fwww.billyheromans.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-11-16 | [`http://www.kapurinc.com`](https://google.com/search?q=http%3A%2F%2Fwww.kapurinc.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-11-16 | [`Precision Steel Services`](https://google.com/search?q=Precision+Steel+Services) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2024-11-16 | [`American Addiction Centers`](https://google.com/search?q=American+Addiction+Centers) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
