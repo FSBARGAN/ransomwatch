@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-09 | [`mpdory.com`](https://google.com/search?q=mpdory.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-09 | [`islandphoto.com`](https://google.com/search?q=islandphoto.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-09 | [`http://copresi.es`](https://google.com/search?q=http%3A%2F%2Fcopresi.es) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-12-09 | [`inia.es`](https://google.com/search?q=inia.es) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-21 | [`Bishop Ireton High School`](https://google.com/search?q=Bishop+Ireton+High+School) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-11-21 | [`Dairy Farmers of Canada`](https://google.com/search?q=Dairy+Farmers+of+Canada) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-11-21 | [`CMD`](https://google.com/search?q=CMD) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-11-20 | [`Birdair`](https://google.com/search?q=Birdair) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
