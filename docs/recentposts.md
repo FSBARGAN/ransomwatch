@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-14 | [`MedRevenu Inc`](https://google.com/search?q=MedRevenu+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-12-14 | [`Mid Florida Primary Care`](https://google.com/search?q=Mid+Florida+Primary+Care) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-12-14 | [`TWRU CPAs and Financial Advisors`](https://google.com/search?q=TWRU+CPAs+and+Financial+Advisors) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-12-14 | [`Talascend`](https://google.com/search?q=Talascend) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-24 | [`STIIIZY`](https://google.com/search?q=STIIIZY) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-11-24 | [`Concord Orthopaedics`](https://google.com/search?q=Concord+Orthopaedics) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-11-24 | [`IT Networks`](https://google.com/search?q=IT+Networks) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
-| 2024-11-24 | [`MGEMAL`](https://google.com/search?q=MGEMAL) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
