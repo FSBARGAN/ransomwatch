@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-16 | [`www.aflak.com.sa`](https://google.com/search?q=www.aflak.com.sa) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-16 | [`scania.pl`](https://google.com/search?q=scania.pl) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-16 | [`GNS Cloud Hacked`](https://google.com/search?q=GNS+Cloud+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2024-12-15 | [`Levinlaw.com`](https://google.com/search?q=Levinlaw.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-25 | [`PK Mulyo`](https://google.com/search?q=PK+Mulyo) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-11-25 | [`Barneek Safety Consultancies`](https://google.com/search?q=Barneek+Safety+Consultancies) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-11-25 | [`Ace Laboratories Limited`](https://google.com/search?q=Ace+Laboratories+Limited) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-11-25 | [`Co****nt`](https://google.com/search?q=Co%2A%2A%2A%2Ant) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
