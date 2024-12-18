@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-18 | [`Medion AG`](https://google.com/search?q=Medion+AG) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-12-18 | [`bushandburchett.com`](https://google.com/search?q=bushandburchett.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-18 | [`www.specialtree.com`](https://google.com/search?q=www.specialtree.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-18 | [`choicemg.com`](https://google.com/search?q=choicemg.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-27 | [`Complete Recycling Services (completerecyclingservices.com)`](https://google.com/search?q=Complete+Recycling+Services+%28completerecyclingservices.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-11-27 | [`CNHW Landscape Design, Ltd`](https://google.com/search?q=CNHW+Landscape+Design%2C+Ltd) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2024-11-27 | [`www.itlindia.com`](https://google.com/search?q=www.itlindia.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-11-26 | [`coppelltx.gov`](https://google.com/search?q=coppelltx.gov) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
