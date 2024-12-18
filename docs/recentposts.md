@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-18 | [`Bender GmbH &amp; Co. KG`](https://google.com/search?q=Bender+GmbH+%26amp%3B+Co.+KG) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-12-18 | [`Valveworks USA`](https://google.com/search?q=Valveworks+USA) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-12-18 | [`Wikov`](https://google.com/search?q=Wikov) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-12-18 | [`Active Dynamics`](https://google.com/search?q=Active+Dynamics) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-27 | [`times-supermarket.com`](https://google.com/search?q=times-supermarket.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-27 | [`gronercrm.com.br`](https://google.com/search?q=gronercrm.com.br) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-27 | [`Interior Metals`](https://google.com/search?q=Interior+Metals) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2024-11-27 | [`bolognafc.it`](https://google.com/search?q=bolognafc.it) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
