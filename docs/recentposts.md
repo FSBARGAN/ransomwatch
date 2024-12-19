@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-19 | [`Development Bank of Jamaica`](https://google.com/search?q=Development+Bank+of+Jamaica) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-12-19 | [`Astaphans`](https://google.com/search?q=Astaphans) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-12-19 | [`Archetype Group`](https://google.com/search?q=Archetype+Group) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-12-19 | [`massdevelopment.com\$24.6M\USA\1.2TB\&lt;1% DISCLOSED`](https://google.com/search?q=massdevelopment.com%5C%2424.6M%5CUSA%5C1.2TB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-28 | [`tappi.org`](https://google.com/search?q=tappi.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-28 | [`IAС`](https://google.com/search?q=IA%D0%A1) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-11-28 | [`corenroll.com`](https://google.com/search?q=corenroll.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-11-28 | [`R Pac Central America S.A. de C.V.`](https://google.com/search?q=R+Pac+Central+America+S.A.+de+C.V.) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
