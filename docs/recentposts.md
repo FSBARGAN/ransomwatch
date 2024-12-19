@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-19 | [`Gagne, LLC.`](https://google.com/search?q=Gagne%2C+LLC.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-12-19 | [`lockbit4.com`](https://google.com/search?q=lockbit4.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-12-19 | [`Furmano’s`](https://google.com/search?q=Furmano%E2%80%99s) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-12-19 | [`Fruit of the Earth`](https://google.com/search?q=Fruit+of+the+Earth) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-28 | [`Lu****ng`](https://google.com/search?q=Lu%2A%2A%2A%2Ang) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-11-27 | [`Me****or`](https://google.com/search?q=Me%2A%2A%2A%2Aor) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-11-27 | [`habeshacement.com`](https://google.com/search?q=habeshacement.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-11-27 | [`ahn.org`](https://google.com/search?q=ahn.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
