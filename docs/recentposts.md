@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-20 | [`Izmocars`](https://google.com/search?q=Izmocars) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-12-20 | [`Genie Healthcare`](https://google.com/search?q=Genie+Healthcare) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-12-20 | [`Circle Electric (circleelectric.com)`](https://google.com/search?q=Circle+Electric+%28circleelectric.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-12-20 | [`tabocas.com.br`](https://google.com/search?q=tabocas.com.br) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-29 | [`Horsa`](https://google.com/search?q=Horsa) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-11-29 | [`Weld Racing (weldracing.com)`](https://google.com/search?q=Weld+Racing+%28weldracing.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-11-29 | [`ppotts.com`](https://google.com/search?q=ppotts.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-11-29 | [`Namforce Life Insurance`](https://google.com/search?q=Namforce+Life+Insurance) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
