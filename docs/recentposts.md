@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-21 | [`BeClever`](https://google.com/search?q=BeClever) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2024-12-21 | [`K****S CORP`](https://google.com/search?q=K%2A%2A%2A%2AS+CORP) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2024-12-20 | [`Banner Day Camp`](https://google.com/search?q=Banner+Day+Camp) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2024-12-20 | [`Izmocars`](https://google.com/search?q=Izmocars) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-29 | [`ALLTUB Group (alltub.com)`](https://google.com/search?q=ALLTUB+Group+%28alltub.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-11-29 | [`www.aras-group.ae`](https://google.com/search?q=www.aras-group.ae) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-29 | [`Chanas Assurances S.A. (chanasassurances.com)`](https://google.com/search?q=Chanas+Assurances+S.A.+%28chanasassurances.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
-| 2024-11-29 | [`Horsa`](https://google.com/search?q=Horsa) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
