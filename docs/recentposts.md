@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-23 | [`tsebrakes.com`](https://google.com/search?q=tsebrakes.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-12-23 | [`marmon-herrington.com`](https://google.com/search?q=marmon-herrington.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-12-23 | [`9fsfalcons.org`](https://google.com/search?q=9fsfalcons.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-12-23 | [`www.mccoyglobal.com`](https://google.com/search?q=www.mccoyglobal.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-01 | [`Siltech (siltechcorp.local)`](https://google.com/search?q=Siltech+%28siltechcorp.local%29) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2024-12-01 | [`Shin Bet Hacked`](https://google.com/search?q=Shin+Bet+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2024-12-01 | [`IIB ( Israeli Industrial Batteries ) Leaked`](https://google.com/search?q=IIB+%28+Israeli+Industrial+Batteries+%29+Leaked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2024-12-01 | [`Max Shop Hacked`](https://google.com/search?q=Max+Shop+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
