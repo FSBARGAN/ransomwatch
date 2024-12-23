@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-23 | [`www.mccoyglobal.com`](https://google.com/search?q=www.mccoyglobal.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-23 | [`adveo.com\$740.7M\France\1.1TB\&lt;1% DISCLOSED`](https://google.com/search?q=adveo.com%5C%24740.7M%5CFrance%5C1.1TB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-12-23 | [`ptcky.com\$5M\USA\902GB\&lt;1% DISCLOSED`](https://google.com/search?q=ptcky.com%5C%245M%5CUSA%5C902GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-12-23 | [`Gr****up`](https://google.com/search?q=Gr%2A%2A%2A%2Aup) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-01 | [`Max Shop Hacked`](https://google.com/search?q=Max+Shop+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2024-11-30 | [`www.agenciatributaria.es`](https://google.com/search?q=www.agenciatributaria.es) | [trinity](https://ransomwatch.telemetry.ltd/#/profiles?id=trinity) |
 | 2024-11-30 | [`Agencia Tributaria AEAT`](https://google.com/search?q=Agencia+Tributaria+AEAT) | [trinity](https://ransomwatch.telemetry.ltd/#/profiles?id=trinity) |
-| 2024-11-30 | [`Ambassador of Israel in Germany Emails`](https://google.com/search?q=Ambassador+of+Israel+in+Germany+Emails) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
