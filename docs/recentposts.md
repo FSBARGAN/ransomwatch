@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-24 | [`Industria e Comercio Jolitex Ltda (jolitex.com)`](https://google.com/search?q=Industria+e+Comercio+Jolitex+Ltda+%28jolitex.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-12-24 | [`RODS Surveying (rods.cc)`](https://google.com/search?q=RODS+Surveying+%28rods.cc%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-12-24 | [`intellinet-es.com`](https://google.com/search?q=intellinet-es.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-24 | [`www.semfin.com`](https://google.com/search?q=www.semfin.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-01 | [`tascosaofficemachines.com`](https://google.com/search?q=tascosaofficemachines.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-01 | [`shapesmfg.com`](https://google.com/search?q=shapesmfg.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-01 | [`costelloeye.com`](https://google.com/search?q=costelloeye.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-12-01 | [`WimCoCorp`](https://google.com/search?q=WimCoCorp) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
