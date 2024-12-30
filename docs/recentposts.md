@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-30 | [`Bettisworth North`](https://google.com/search?q=Bettisworth+North) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-12-30 | [`Allen Carr’s Easyway Hacked`](https://google.com/search?q=Allen+Carr%E2%80%99s+Easyway+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2024-12-30 | [`Enge Ilha Construção`](https://google.com/search?q=Enge+Ilha+Constru%C3%A7%C3%A3o) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-12-30 | [`Hi-Raise Constructions Holding`](https://google.com/search?q=Hi-Raise+Constructions+Holding) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-05 | [`[DISCLOSED]Sabesp`](https://google.com/search?q=%5BDISCLOSED%5DSabesp) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-12-05 | [`[DISCLOSED]GuangDong South Land pharmaceutical`](https://google.com/search?q=%5BDISCLOSED%5DGuangDong+South+Land+pharmaceutical) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-12-05 | [`[DISCLOSED]Interior Metals`](https://google.com/search?q=%5BDISCLOSED%5DInterior+Metals) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2024-12-05 | [`Star Shuttle Inc.`](https://google.com/search?q=Star+Shuttle+Inc.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
