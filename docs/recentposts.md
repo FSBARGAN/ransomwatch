@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-30 | [`Hi-Raise Constructions Holding`](https://google.com/search?q=Hi-Raise+Constructions+Holding) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-12-30 | [`Megaexit`](https://google.com/search?q=Megaexit) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-12-30 | [`Wosac`](https://google.com/search?q=Wosac) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-12-30 | [`Innois`](https://google.com/search?q=Innois) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-05 | [`Star Shuttle Inc.`](https://google.com/search?q=Star+Shuttle+Inc.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-12-05 | [`NTrust`](https://google.com/search?q=NTrust) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-12-05 | [`Co****ns`](https://google.com/search?q=Co%2A%2A%2A%2Ans) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2024-12-05 | [`copral.com.br`](https://google.com/search?q=copral.com.br) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
