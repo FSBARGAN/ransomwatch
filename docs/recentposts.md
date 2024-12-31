@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-31 | [`Zeifmans`](https://google.com/search?q=Zeifmans) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-12-30 | [`McCray Lumber`](https://google.com/search?q=McCray+Lumber) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-12-30 | [`Luxury Yacht Group`](https://google.com/search?q=Luxury+Yacht+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-12-30 | [`Bettisworth North`](https://google.com/search?q=Bettisworth+North) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-06 | [`NatAlliance Securities`](https://google.com/search?q=NatAlliance+Securities) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-12-06 | [`Max Trans`](https://google.com/search?q=Max+Trans) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-12-05 | [`ITO EN`](https://google.com/search?q=ITO+EN) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-12-05 | [`[DISCLOSED]Sabesp`](https://google.com/search?q=%5BDISCLOSED%5DSabesp) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
