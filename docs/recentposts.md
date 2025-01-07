@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-07 | [`D-7 Roofing`](https://google.com/search?q=D-7+Roofing) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2025-01-07 | [`Sunflower Medical Group`](https://google.com/search?q=Sunflower+Medical+Group) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-01-06 | [`yoniot.cn`](https://google.com/search?q=yoniot.cn) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
 | 2025-01-06 | [`molars.co.ke`](https://google.com/search?q=molars.co.ke) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-07 | [`www.giorgiovisconti.it`](https://google.com/search?q=www.giorgiovisconti.it) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-07 | [`www.kiswire.com`](https://google.com/search?q=www.kiswire.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-07 | [`www.dalgroup.com`](https://google.com/search?q=www.dalgroup.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-12-07 | [`www.goethe-university-frankfurt.de`](https://google.com/search?q=www.goethe-university-frankfurt.de) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
