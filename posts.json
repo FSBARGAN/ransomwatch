@@ -70878,5 +70878,10 @@
         "post_title": "Izmocars Data Leak",
         "group_name": "everest",
         "discovered": "2025-01-09 16:45:40.164547"
+    },
+    {
+        "post_title": "Myhealthcarebilling Data Leak",
+        "group_name": "everest",
+        "discovered": "2025-01-09 18:50:27.477736"
     }
 ]
