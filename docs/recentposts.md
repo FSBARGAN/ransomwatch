@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-10 | [`www.primalwear.com`](https://google.com/search?q=www.primalwear.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-01-10 | [`Evidn`](https://google.com/search?q=Evidn) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2025-01-09 | [`www.fairhallzhang.com`](https://google.com/search?q=www.fairhallzhang.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-01-09 | [`Sarah Car Care Data Leak`](https://google.com/search?q=Sarah+Car+Care+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-10 | [`womenscare.com`](https://google.com/search?q=womenscare.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-10 | [`tectaamerica.com`](https://google.com/search?q=tectaamerica.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-10 | [`Telecom Namibia`](https://google.com/search?q=Telecom+Namibia) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-12-10 | [`Throat`](https://google.com/search?q=Throat) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
