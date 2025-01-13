@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-13 | [`adveo.com\$740.7M\France\1.1TB\100% DISCLOSED`](https://google.com/search?q=adveo.com%5C%24740.7M%5CFrance%5C1.1TB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-01-12 | [`Jim Thompson`](https://google.com/search?q=Jim+Thompson) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2025-01-12 | [`Astaphans`](https://google.com/search?q=Astaphans) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2025-01-12 | [`Unisource Information Services`](https://google.com/search?q=Unisource+Information+Services) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-14 | [`marietta-city.org`](https://google.com/search?q=marietta-city.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-14 | [`American Computer Estimating Inc`](https://google.com/search?q=American+Computer+Estimating+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-12-14 | [`MedRevenu Inc`](https://google.com/search?q=MedRevenu+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-12-14 | [`Mid Florida Primary Care`](https://google.com/search?q=Mid+Florida+Primary+Care) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
