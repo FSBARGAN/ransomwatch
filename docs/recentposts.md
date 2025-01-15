@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-15 | [`FSOCIETY X FUNKSEC`](https://google.com/search?q=FSOCIETY+X+FUNKSEC) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-01-15 | [`optiline.com\$127.3M\USA\947GB\&lt;1% DISCLOSED`](https://google.com/search?q=optiline.com%5C%24127.3M%5CUSA%5C947GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-01-15 | [`Buttery (butterycompany.com)`](https://google.com/search?q=Buttery+%28butterycompany.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-01-15 | [`www.eurocert.pl`](https://google.com/search?q=www.eurocert.pl) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-17 | [`redknee.com`](https://google.com/search?q=redknee.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-17 | [`nbleisuretrust.org`](https://google.com/search?q=nbleisuretrust.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-17 | [`Ecritel`](https://google.com/search?q=Ecritel) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-12-17 | [`kuritaamerica.com`](https://google.com/search?q=kuritaamerica.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
