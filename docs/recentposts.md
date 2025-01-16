@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-16 | [`communisis.com & paragon.world`](https://google.com/search?q=communisis.com+%26+paragon.world) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2025-01-16 | [`www.solariumrevestimentos.com.br`](https://google.com/search?q=www.solariumrevestimentos.com.br) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-01-16 | [`www.liteputer.com.tw`](https://google.com/search?q=www.liteputer.com.tw) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-01-15 | [`Lowe Engineers`](https://google.com/search?q=Lowe+Engineers) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-18 | [`Wikov`](https://google.com/search?q=Wikov) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-12-18 | [`Active Dynamics`](https://google.com/search?q=Active+Dynamics) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-12-18 | [`Bath Fitter`](https://google.com/search?q=Bath+Fitter) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-12-18 | [`Grimaldi Alliance`](https://google.com/search?q=Grimaldi+Alliance) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
