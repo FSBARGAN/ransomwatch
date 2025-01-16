@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-16 | [`Solaris Pharma proof`](https://google.com/search?q=Solaris+Pharma+proof) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2025-01-16 | [`The Hoff Brand SL`](https://google.com/search?q=The+Hoff+Brand+SL) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2025-01-16 | [`Volt Infrastructure`](https://google.com/search?q=Volt+Infrastructure) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2025-01-16 | [`QualiTech (qualitech.com)`](https://google.com/search?q=QualiTech+%28qualitech.com%29) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-19 | [`bataviacontainer.com`](https://google.com/search?q=bataviacontainer.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-12-19 | [`Cottrell P.C.`](https://google.com/search?q=Cottrell+P.C.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-12-19 | [`Gagne, LLC.`](https://google.com/search?q=Gagne%2C+LLC.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-12-19 | [`lockbit4.com`](https://google.com/search?q=lockbit4.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
