@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-18 | [`Marina Family Medical`](https://google.com/search?q=Marina+Family+Medical) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
 | 2025-01-18 | [`Kassin & Carrow`](https://google.com/search?q=Kassin+%26+Carrow) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2025-01-17 | [`PHG CPAs (bushman.biz)`](https://google.com/search?q=PHG+CPAs+%28bushman.biz%29) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2025-01-17 | [`Browdy (bl.local)`](https://google.com/search?q=Browdy+%28bl.local%29) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-20 | [`www.tekni-plex.com`](https://google.com/search?q=www.tekni-plex.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-20 | [`Trev Deeley Motorcycles`](https://google.com/search?q=Trev+Deeley+Motorcycles) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-12-20 | [`Microvision`](https://google.com/search?q=Microvision) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-12-19 | [`Krispy Kreme`](https://google.com/search?q=Krispy+Kreme) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
