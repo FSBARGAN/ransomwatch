@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-19 | [`TG3 Electronics`](https://google.com/search?q=TG3+Electronics) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-01-18 | [`MassDevelopment`](https://google.com/search?q=MassDevelopment) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2025-01-18 | [`Marina Family Medical`](https://google.com/search?q=Marina+Family+Medical) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
 | 2025-01-18 | [`Kassin & Carrow`](https://google.com/search?q=Kassin+%26+Carrow) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-20 | [`JRT Automatisation`](https://google.com/search?q=JRT+Automatisation) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2024-12-20 | [`planetgroup.co.il`](https://google.com/search?q=planetgroup.co.il) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-20 | [`www.tekni-plex.com`](https://google.com/search?q=www.tekni-plex.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-12-20 | [`Trev Deeley Motorcycles`](https://google.com/search?q=Trev+Deeley+Motorcycles) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
