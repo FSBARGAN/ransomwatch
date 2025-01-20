@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-20 | [`Kinseth Hospitality Companies`](https://google.com/search?q=Kinseth+Hospitality+Companies) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2025-01-20 | [`Sentinel Systems`](https://google.com/search?q=Sentinel+Systems) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2025-01-20 | [`Angotti & Reilly`](https://google.com/search?q=Angotti+%26+Reilly) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2025-01-20 | [`Zuk Group Hacked`](https://google.com/search?q=Zuk+Group+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-20 | [`Izmocars`](https://google.com/search?q=Izmocars) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-12-20 | [`Genie Healthcare`](https://google.com/search?q=Genie+Healthcare) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-12-20 | [`Circle Electric (circleelectric.com)`](https://google.com/search?q=Circle+Electric+%28circleelectric.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
-| 2024-12-20 | [`tabocas.com.br`](https://google.com/search?q=tabocas.com.br) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
