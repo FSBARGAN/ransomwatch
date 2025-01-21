@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-21 | [`Inaya Clinique`](https://google.com/search?q=Inaya+Clinique) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-01-21 | [`Bethany Hospital`](https://google.com/search?q=Bethany+Hospital) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-01-21 | [`Marukai`](https://google.com/search?q=Marukai) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2025-01-20 | [`PetroVietnam Exploration Production Corporation`](https://google.com/search?q=PetroVietnam+Exploration+Production+Corporation) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-21 | [`www.groupe-setcar.com.tn`](https://google.com/search?q=www.groupe-setcar.com.tn) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-21 | [`BeClever`](https://google.com/search?q=BeClever) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2024-12-21 | [`K****S CORP`](https://google.com/search?q=K%2A%2A%2A%2AS+CORP) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
-| 2024-12-20 | [`Banner Day Camp`](https://google.com/search?q=Banner+Day+Camp) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
