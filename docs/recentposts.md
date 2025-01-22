@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-22 | [`Jacobs & Thompson`](https://google.com/search?q=Jacobs+%26+Thompson) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2025-01-22 | [`Gossett Motor Cars `](https://google.com/search?q=Gossett+Motor+Cars+) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2025-01-22 | [`SANTA MARIA LABORATORIO`](https://google.com/search?q=SANTA+MARIA+LABORATORIO) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-01-22 | [`www.americanstandard-us.com`](https://google.com/search?q=www.americanstandard-us.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-23 | [`ptcky.com\$5M\USA\902GB\&lt;1% DISCLOSED`](https://google.com/search?q=ptcky.com%5C%245M%5CUSA%5C902GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-12-23 | [`Gr****up`](https://google.com/search?q=Gr%2A%2A%2A%2Aup) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-12-23 | [`De****ep`](https://google.com/search?q=De%2A%2A%2A%2Aep) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2024-12-23 | [`Ri****uk`](https://google.com/search?q=Ri%2A%2A%2A%2Auk) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
