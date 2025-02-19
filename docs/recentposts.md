@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-19 | [`midwayimporting.com\$43.7M\USA\915GB\&lt;1% DISCLOSED`](https://google.com/search?q=midwayimporting.com%5C%2443.7M%5CUSA%5C915GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-02-19 | [`revitalash.com\$21.5M\USA\1.2TB\&lt;1% DISCLOSED`](https://google.com/search?q=revitalash.com%5C%2421.5M%5CUSA%5C1.2TB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-02-18 | [`bestbrands.com\$25.5M\USA\659GB\&lt;1% DISCLOSED`](https://google.com/search?q=bestbrands.com%5C%2425.5M%5CUSA%5C659GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-02-18 | [`Buanderie Centrale de Montreal`](https://google.com/search?q=Buanderie+Centrale+de+Montreal) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-01-31 | [`A**-****o.com`](https://google.com/search?q=A%2A%2A-%2A%2A%2A%2Ao.com) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-01-31 | [`midwaymetals.com.vn`](https://google.com/search?q=midwaymetals.com.vn) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-01-31 | [`soitinlaine.fi`](https://google.com/search?q=soitinlaine.fi) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
-| 2025-01-31 | [`ttucorp.com\$27.6M\USA\1TB\&lt;1% DISCLOSED`](https://google.com/search?q=ttucorp.com%5C%2427.6M%5CUSA%5C1TB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
