@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-20 | [`www.riverdale.edu`](https://google.com/search?q=www.riverdale.edu) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-20 | [`lekiaviation.com`](https://google.com/search?q=lekiaviation.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-20 | [`bisindustries.com`](https://google.com/search?q=bisindustries.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-20 | [`www.mwmechanicalinc.com`](https://google.com/search?q=www.mwmechanicalinc.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-01 | [`Zamzow's`](https://google.com/search?q=Zamzow%27s) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2025-02-01 | [`Jalaram Produce`](https://google.com/search?q=Jalaram+Produce) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2025-02-01 | [`Delta Screen & Filtration ()`](https://google.com/search?q=Delta+Screen+%26+Filtration+%28%29) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
-| 2025-02-01 | [`My New Jersey Dentist`](https://google.com/search?q=My+New+Jersey+Dentist) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
