@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-20 | [`www.pransystems.com`](https://google.com/search?q=www.pransystems.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-20 | [`www.phdental.com`](https://google.com/search?q=www.phdental.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-20 | [`www.riverdale.edu`](https://google.com/search?q=www.riverdale.edu) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-20 | [`lekiaviation.com`](https://google.com/search?q=lekiaviation.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-02 | [`KPI Engineering`](https://google.com/search?q=KPI+Engineering) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2025-02-01 | [`Gitlabs: PT. ITPRENEUR INDONESIA TECHNOLOGY, GFZ Helmholtz Centre for Geosciences, LUA Cof`](https://google.com/search?q=Gitlabs%3A+PT.+ITPRENEUR+INDONESIA+TECHNOLOGY%2C+GFZ+Helmholtz+Centre+for+Geosciences%2C+LUA+Cof) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-02-01 | [`Zamzow's`](https://google.com/search?q=Zamzow%27s) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
-| 2025-02-01 | [`Jalaram Produce`](https://google.com/search?q=Jalaram+Produce) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
