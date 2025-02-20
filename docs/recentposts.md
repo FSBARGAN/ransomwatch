@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-20 | [`www.alphamedctr.com`](https://google.com/search?q=www.alphamedctr.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-20 | [`www.ccttechnologies.com`](https://google.com/search?q=www.ccttechnologies.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-19 | [`www.copleystoughton.com`](https://google.com/search?q=www.copleystoughton.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-19 | [`Supreme Administrative Court of Bulgaria`](https://google.com/search?q=Supreme+Administrative+Court+of+Bulgaria) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-01 | [`Rossi Real Estate (ROSSIDG.LOCAL)`](https://google.com/search?q=Rossi+Real+Estate+%28ROSSIDG.LOCAL%29) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2025-02-01 | [`Falcon Gaming`](https://google.com/search?q=Falcon+Gaming) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-02-01 | [`Eascon`](https://google.com/search?q=Eascon) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
-| 2025-02-01 | [`CAMRIDGEPORT`](https://google.com/search?q=CAMRIDGEPORT) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
