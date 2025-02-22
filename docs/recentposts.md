@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-22 | [`www.cityoftarrant.com`](https://google.com/search?q=www.cityoftarrant.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-22 | [`alleghenybradford.com`](https://google.com/search?q=alleghenybradford.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-22 | [`Greencastle-Antrim Senior High School (gcasd.org)`](https://google.com/search?q=Greencastle-Antrim+Senior+High+School+%28gcasd.org%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-02-22 | [`www.elecgalapagos.com.ec`](https://google.com/search?q=www.elecgalapagos.com.ec) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-04 | [`Dickerson & Nieman Realtors`](https://google.com/search?q=Dickerson+%26+Nieman+Realtors) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-04 | [`Daniel Island Club`](https://google.com/search?q=Daniel+Island+Club) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-04 | [`ITSS`](https://google.com/search?q=ITSS) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2025-02-04 | [`C2S Technologies Inc.`](https://google.com/search?q=C2S+Technologies+Inc.) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
