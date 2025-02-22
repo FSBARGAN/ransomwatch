@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-22 | [`www.electro-fusion.com`](https://google.com/search?q=www.electro-fusion.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-22 | [`www.midwestvascular.net`](https://google.com/search?q=www.midwestvascular.net) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-21 | [`www.witheyaddison.com`](https://google.com/search?q=www.witheyaddison.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-21 | [`www.nola-law.com`](https://google.com/search?q=www.nola-law.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-03 | [`[EVIDANCE] AIshu, Eshoo`](https://google.com/search?q=%5BEVIDANCE%5D+AIshu%2C+Eshoo) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-02-03 | [`DPC Development`](https://google.com/search?q=DPC+Development) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-03 | [`www.wongfleming.com`](https://google.com/search?q=www.wongfleming.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-02-03 | [`gruppozaccaria.it`](https://google.com/search?q=gruppozaccaria.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
