@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-25 | [`ossc.mx`](https://google.com/search?q=ossc.mx) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-02-25 | [`essenzamovies.com.br`](https://google.com/search?q=essenzamovies.com.br) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-02-25 | [`Nichino Ryokka Co Ltd`](https://google.com/search?q=Nichino+Ryokka+Co+Ltd) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-02-25 | [`pacresmortgage.com`](https://google.com/search?q=pacresmortgage.com) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-06 | [`savoiesfoods.com\$18.2M\USA\95GB\&lt;1% DISCLOSED`](https://google.com/search?q=savoiesfoods.com%5C%2418.2M%5CUSA%5C95GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-02-06 | [`SmithDunn&amp;Co`](https://google.com/search?q=SmithDunn%26amp%3BCo) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-02-06 | [`www.aswgr.com`](https://google.com/search?q=www.aswgr.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-02-06 | [`Robertshaw`](https://google.com/search?q=Robertshaw) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
