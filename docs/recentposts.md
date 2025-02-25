@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-25 | [`ALCOTT HR GROUP`](https://google.com/search?q=ALCOTT+HR+GROUP) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-25 | [`bluedge.com\$104.5M\USA\994GB\&lt;1% DISCLOSED`](https://google.com/search?q=bluedge.com%5C%24104.5M%5CUSA%5C994GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-02-25 | [`unila.edu.mx`](https://google.com/search?q=unila.edu.mx) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-02-25 | [`ossc.mx`](https://google.com/search?q=ossc.mx) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-07 | [`A2b-cargo.com`](https://google.com/search?q=A2b-cargo.com) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-02-06 | [`zsattorneys.com`](https://google.com/search?q=zsattorneys.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-06 | [`northernresponse.com\$17.4M\Canada\366GB\&lt;1% DISCLOSED`](https://google.com/search?q=northernresponse.com%5C%2417.4M%5CCanada%5C366GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2025-02-06 | [`savoiesfoods.com\$18.2M\USA\95GB\&lt;1% DISCLOSED`](https://google.com/search?q=savoiesfoods.com%5C%2418.2M%5CUSA%5C95GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
