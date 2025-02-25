@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-25 | [`aiibeauty.com\$274.8M\USA\508GB\&lt;1% DISCLOSED`](https://google.com/search?q=aiibeauty.com%5C%24274.8M%5CUSA%5C508GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-02-24 | [`formanmills.com\$422.2M\USA\846gb\&lt;1% DISCLOSED`](https://google.com/search?q=formanmills.com%5C%24422.2M%5CUSA%5C846gb%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-02-24 | [`[DISCLOSED] Aishu, Eshoo`](https://google.com/search?q=%5BDISCLOSED%5D+Aishu%2C+Eshoo) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-02-24 | [`amalgamatedsugar.com\$764.8 M\USA\464gb\&lt;1% DISCLOSED`](https://google.com/search?q=amalgamatedsugar.com%5C%24764.8+M%5CUSA%5C464gb%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-06 | [`corehandf.com`](https://google.com/search?q=corehandf.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2025-02-06 | [`St Clair Orthopaedics and Sports Medicine P.C.`](https://google.com/search?q=St+Clair+Orthopaedics+and+Sports+Medicine+P.C.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2025-02-06 | [`OFW Law`](https://google.com/search?q=OFW+Law) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2025-02-05 | [`Dash Business`](https://google.com/search?q=Dash+Business) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
