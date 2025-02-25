@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-25 | [`pacresmortgage.com`](https://google.com/search?q=pacresmortgage.com) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2025-02-25 | [`denbyco.co.uk`](https://google.com/search?q=denbyco.co.uk) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-25 | [`compactmould.com`](https://google.com/search?q=compactmould.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-25 | [`chfindustries.com\$253.8M\USA\2.5TB\&lt;1% DISCLOSED`](https://google.com/search?q=chfindustries.com%5C%24253.8M%5CUSA%5C2.5TB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-06 | [`Robertshaw`](https://google.com/search?q=Robertshaw) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-02-06 | [`heartlandrvs.com`](https://google.com/search?q=heartlandrvs.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-06 | [`gaheritagefcu.org`](https://google.com/search?q=gaheritagefcu.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-02-06 | [`alojaimi.com`](https://google.com/search?q=alojaimi.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
