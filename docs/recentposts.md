@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-26 | [`www.bwdtechnology.com`](https://google.com/search?q=www.bwdtechnology.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-26 | [`hgmlegal.com`](https://google.com/search?q=hgmlegal.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-26 | [`welcompanies.com`](https://google.com/search?q=welcompanies.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-26 | [`Radco Industries`](https://google.com/search?q=Radco+Industries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-07 | [`teamues.com`](https://google.com/search?q=teamues.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-07 | [`Shinsung Delta Tech`](https://google.com/search?q=Shinsung+Delta+Tech) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2025-02-07 | [`sautech.edu`](https://google.com/search?q=sautech.edu) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-02-07 | [`Banfi Vintners`](https://google.com/search?q=Banfi+Vintners) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
