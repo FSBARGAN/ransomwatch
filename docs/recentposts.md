@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-27 | [`Finck Cigar`](https://google.com/search?q=Finck+Cigar) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-26 | [`3cBSI`](https://google.com/search?q=3cBSI) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-26 | [`Nationz Technologies Inc.`](https://google.com/search?q=Nationz+Technologies+Inc.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-02-26 | [`holtcat.com\$1B\USA\868GB\&lt;1% DISCLOSED`](https://google.com/search?q=holtcat.com%5C%241B%5CUSA%5C868GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-08 | [`R******e.tw`](https://google.com/search?q=R%2A%2A%2A%2A%2A%2Ae.tw) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-02-08 | [`SAKAI SOUKEN Co.`](https://google.com/search?q=SAKAI+SOUKEN+Co.) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-02-08 | [`M****s.info`](https://google.com/search?q=M%2A%2A%2A%2As.info) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
-| 2025-02-07 | [`Lexington Electric `](https://google.com/search?q=Lexington+Electric+) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
