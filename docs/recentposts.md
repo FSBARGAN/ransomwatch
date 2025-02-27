@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-27 | [`caltrol.com\$296.3M\USA\224gb\&lt;1% DISCLOSED`](https://google.com/search?q=caltrol.com%5C%24296.3M%5CUSA%5C224gb%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-02-27 | [`Story Environmental`](https://google.com/search?q=Story+Environmental) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-27 | [`Muller Insurance`](https://google.com/search?q=Muller+Insurance) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-27 | [`Finck Cigar`](https://google.com/search?q=Finck+Cigar) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-09 | [`Gitlabs: Universitatea Politehnica din Bucuresti, Maxvy Technologies Pvt, iRidge Inc.`](https://google.com/search?q=Gitlabs%3A+Universitatea+Politehnica+din+Bucuresti%2C+Maxvy+Technologies+Pvt%2C+iRidge+Inc.) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-02-09 | [`Israel Police Hacked`](https://google.com/search?q=Israel+Police+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-02-08 | [`G*********7.com`](https://google.com/search?q=G%2A%2A%2A%2A%2A%2A%2A%2A%2A7.com) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
-| 2025-02-08 | [`R******e.tw`](https://google.com/search?q=R%2A%2A%2A%2A%2A%2Ae.tw) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
