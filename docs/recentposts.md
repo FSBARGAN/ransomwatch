@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-01 | [`stanleyconsultants.com\$190.5M\USA\388GB\&lt;1% DISCLOSED`](https://google.com/search?q=stanleyconsultants.com%5C%24190.5M%5CUSA%5C388GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-03-01 | [`Newton & Associates, Inc`](https://google.com/search?q=Newton+%26+Associates%2C+Inc) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-03-01 | [`electrocraft.com\$190.1M\USA\477GB\&lt;1% DISCLOSED`](https://google.com/search?q=electrocraft.com%5C%24190.1M%5CUSA%5C477GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-03-01 | [`associatedasset.com\$288M\USA\26GB\&lt;1% DISCLOSED`](https://google.com/search?q=associatedasset.com%5C%24288M%5CUSA%5C26GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-12 | [`Fastighetsservice AB`](https://google.com/search?q=Fastighetsservice+AB) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-12 | [`Omni Fiber LLC`](https://google.com/search?q=Omni+Fiber+LLC) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2025-02-12 | [`EAC Consulting`](https://google.com/search?q=EAC+Consulting) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-02-12 | [`Cold Storage Manufacturing`](https://google.com/search?q=Cold+Storage+Manufacturing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
