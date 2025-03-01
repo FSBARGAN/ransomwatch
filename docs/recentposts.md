@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-01 | [`branchgroup.com\$333M\USA\253GB\&lt;1% DISCLOSED`](https://google.com/search?q=branchgroup.com%5C%24333M%5CUSA%5C253GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-02-28 | [`pace-usa.com\$134.4M\USA\65gb\&lt;1% DISCLOSED`](https://google.com/search?q=pace-usa.com%5C%24134.4M%5CUSA%5C65gb%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-02-28 | [`steelwarehouse.com\$570.3M\USA\679gb\&lt;1% DISCLOSED`](https://google.com/search?q=steelwarehouse.com%5C%24570.3M%5CUSA%5C679gb%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-02-28 | [`www.avalon-hotel.com`](https://google.com/search?q=www.avalon-hotel.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-11 | [`Aurora Public Schools (aurorak12.org)`](https://google.com/search?q=Aurora+Public+Schools+%28aurorak12.org%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-02-11 | [`Saint George&#39;s College (saintgeorge.cl)`](https://google.com/search?q=Saint+George%26%2339%3Bs+College+%28saintgeorge.cl%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-02-11 | [`komline.com`](https://google.com/search?q=komline.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-02-11 | [`Rogers`](https://google.com/search?q=Rogers) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
