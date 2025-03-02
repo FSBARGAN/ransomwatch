@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-02 | [`Gitlabs: Synelixis Solutions, INGV, VMO Holdings`](https://google.com/search?q=Gitlabs%3A+Synelixis+Solutions%2C+INGV%2C+VMO+Holdings) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-03-02 | [`South Georgia Accounting Services`](https://google.com/search?q=South+Georgia+Accounting+Services) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-03-02 | [`tequaly.com`](https://google.com/search?q=tequaly.com) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
 | 2025-03-01 | [`www.casinoessentials.com`](https://google.com/search?q=www.casinoessentials.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-13 | [`Tie Down Engineering`](https://google.com/search?q=Tie+Down+Engineering) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-12 | [`Shinn Fu Company of America`](https://google.com/search?q=Shinn+Fu+Company+of+America) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-12 | [`ROCK SOLID Stabilization & Reclamation`](https://google.com/search?q=ROCK+SOLID+Stabilization+%26+Reclamation) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-02-12 | [`Neaton Auto Products Manufacturing`](https://google.com/search?q=Neaton+Auto+Products+Manufacturing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
