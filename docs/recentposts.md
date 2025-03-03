@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-03 | [`ceratec.com`](https://google.com/search?q=ceratec.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2025-03-03 | [`Pre Con Industries`](https://google.com/search?q=Pre+Con+Industries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-03-03 | [`Optometrics`](https://google.com/search?q=Optometrics) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-03-03 | [`North American Fire Hose`](https://google.com/search?q=North+American+Fire+Hose) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-14 | [`leonardo.com`](https://google.com/search?q=leonardo.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2025-02-14 | [`Shields Facilities Maintenance`](https://google.com/search?q=Shields+Facilities+Maintenance) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-14 | [`Ball, LLP`](https://google.com/search?q=Ball%2C+LLP) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2025-02-14 | [`R Molds Inc`](https://google.com/search?q=R+Molds+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
