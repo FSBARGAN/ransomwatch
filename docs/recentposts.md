@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-06 | [`hickorylaw.com`](https://google.com/search?q=hickorylaw.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-06 | [`lovesac.com`](https://google.com/search?q=lovesac.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-06 | [`agi.net`](https://google.com/search?q=agi.net) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2025-03-06 | [`stanleyconsultants.com\$190.5M\USA\388GB\100% DISCLOSED`](https://google.com/search?q=stanleyconsultants.com%5C%24190.5M%5CUSA%5C388GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-17 | [`https://www.dapope.com/`](https://google.com/search?q=https%3A%2F%2Fwww.dapope.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2025-02-17 | [`teamwass.com\$676.3M\USA\451GB\&lt;1% DISCLOSED`](https://google.com/search?q=teamwass.com%5C%24676.3M%5CUSA%5C451GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-02-17 | [`mgainnovation.com\$30.9M\USA\215GB\100% DISCLOSED`](https://google.com/search?q=mgainnovation.com%5C%2430.9M%5CUSA%5C215GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2025-02-17 | [`northernresponse.com\$17.4M\Canada\366GB\100% DISCLOSED`](https://google.com/search?q=northernresponse.com%5C%2417.4M%5CCanada%5C366GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
