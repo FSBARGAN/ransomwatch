@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-06 | [`stanleyconsultants.com\$190.5M\USA\388GB\100% DISCLOSED`](https://google.com/search?q=stanleyconsultants.com%5C%24190.5M%5CUSA%5C388GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-03-06 | [`electrocraft.com\$190.1M\USA\477GB\100% DISCLOSED`](https://google.com/search?q=electrocraft.com%5C%24190.1M%5CUSA%5C477GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-03-06 | [`holtcat.com\$1B\USA\868GB\100% DISCLOSED`](https://google.com/search?q=holtcat.com%5C%241B%5CUSA%5C868GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-03-06 | [`synaptic.co.tz`](https://google.com/search?q=synaptic.co.tz) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-17 | [`northernresponse.com\$17.4M\Canada\366GB\100% DISCLOSED`](https://google.com/search?q=northernresponse.com%5C%2417.4M%5CCanada%5C366GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-02-17 | [`savoiesfoods.com\$18.2M\USA\95GB\100% DISCLOSED`](https://google.com/search?q=savoiesfoods.com%5C%2418.2M%5CUSA%5C95GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-02-17 | [`Gpstech2007.com`](https://google.com/search?q=Gpstech2007.com) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
-| 2025-02-17 | [`Mervis.info`](https://google.com/search?q=Mervis.info) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
