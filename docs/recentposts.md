@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-06 | [`New .Gov ?`](https://google.com/search?q=New+.Gov+%3F) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-03-06 | [`S********e.com`](https://google.com/search?q=S%2A%2A%2A%2A%2A%2A%2A%2Ae.com) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-03-06 | [`K**d.edu`](https://google.com/search?q=K%2A%2Ad.edu) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-03-05 | [`dsrny.com`](https://google.com/search?q=dsrny.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-17 | [`E*******s.gov.zm`](https://google.com/search?q=E%2A%2A%2A%2A%2A%2A%2As.gov.zm) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-02-17 | [`annegrady.org`](https://google.com/search?q=annegrady.org) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
 | 2025-02-16 | [`A*u.edu.au`](https://google.com/search?q=A%2Au.edu.au) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
-| 2025-02-16 | [`Heritage South Credit Union`](https://google.com/search?q=Heritage+South+Credit+Union) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
