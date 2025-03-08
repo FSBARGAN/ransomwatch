@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-08 | [`Oberlin Cable Co-op (oberlin.net)`](https://google.com/search?q=Oberlin+Cable+Co-op+%28oberlin.net%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-03-08 | [`WJCC Public Schools (wjccschools.org)`](https://google.com/search?q=WJCC+Public+Schools+%28wjccschools.org%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-03-08 | [`LINKGROUP`](https://google.com/search?q=LINKGROUP) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-03-08 | [`Openreso`](https://google.com/search?q=Openreso) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-19 | [`www.macter.com`](https://google.com/search?q=www.macter.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-19 | [`Alabama Ophthalmology Associates`](https://google.com/search?q=Alabama+Ophthalmology+Associates) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2025-02-19 | [`haleycomfort.com`](https://google.com/search?q=haleycomfort.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-02-19 | [`Swissmem`](https://google.com/search?q=Swissmem) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
