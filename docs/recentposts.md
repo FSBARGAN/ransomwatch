@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-08 | [`WJCC Public Schools (wjccschools.org)`](https://google.com/search?q=WJCC+Public+Schools+%28wjccschools.org%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-03-08 | [`LINKGROUP`](https://google.com/search?q=LINKGROUP) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-03-08 | [`Openreso`](https://google.com/search?q=Openreso) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-03-08 | [`Itapeseg`](https://google.com/search?q=Itapeseg) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-19 | [`Alabama Ophthalmology Associates`](https://google.com/search?q=Alabama+Ophthalmology+Associates) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2025-02-19 | [`haleycomfort.com`](https://google.com/search?q=haleycomfort.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-19 | [`Swissmem`](https://google.com/search?q=Swissmem) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2025-02-19 | [`almostfamousclothing.com\$183M\USA\375GB\&lt;1% DISCLOSED`](https://google.com/search?q=almostfamousclothing.com%5C%24183M%5CUSA%5C375GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
