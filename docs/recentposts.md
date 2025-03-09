@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-09 | [`ACDC Express`](https://google.com/search?q=ACDC+Express) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2025-03-09 | [`lofotenseafood.com`](https://google.com/search?q=lofotenseafood.com) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2025-03-09 | [`The 19 biggest gitlabs`](https://google.com/search?q=The+19+biggest+gitlabs) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-03-08 | [`www.dcarosolutions.com`](https://google.com/search?q=www.dcarosolutions.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-20 | [`www.alphamedctr.com`](https://google.com/search?q=www.alphamedctr.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-20 | [`www.ccttechnologies.com`](https://google.com/search?q=www.ccttechnologies.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-19 | [`www.copleystoughton.com`](https://google.com/search?q=www.copleystoughton.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-02-19 | [`Supreme Administrative Court of Bulgaria`](https://google.com/search?q=Supreme+Administrative+Court+of+Bulgaria) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
