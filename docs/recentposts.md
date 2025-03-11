@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-11 | [`quigleyeye.com\$33.6M\USA\3.4TB\100% DISCLOSED`](https://google.com/search?q=quigleyeye.com%5C%2433.6M%5CUSA%5C3.4TB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-03-11 | [`Salemerode.com`](https://google.com/search?q=Salemerode.com) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-03-11 | [`www.hexosys.com`](https://google.com/search?q=www.hexosys.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-11 | [`dccsagroup.com&amp;csahome.com`](https://google.com/search?q=dccsagroup.com%26amp%3Bcsahome.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-22 | [`alleghenybradford.com`](https://google.com/search?q=alleghenybradford.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-22 | [`Greencastle-Antrim Senior High School (gcasd.org)`](https://google.com/search?q=Greencastle-Antrim+Senior+High+School+%28gcasd.org%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-02-22 | [`www.elecgalapagos.com.ec`](https://google.com/search?q=www.elecgalapagos.com.ec) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-02-22 | [`www.electro-fusion.com`](https://google.com/search?q=www.electro-fusion.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
