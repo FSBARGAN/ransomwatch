@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-11 | [`Springfield Water and Sewer Commission`](https://google.com/search?q=Springfield+Water+and+Sewer+Commission) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2025-03-11 | [`Magnolia Manor (magnoliamanor.com)`](https://google.com/search?q=Magnolia+Manor+%28magnoliamanor.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-03-11 | [`Wilkinson Rogers (wilkinsonrogers.com)`](https://google.com/search?q=Wilkinson+Rogers+%28wilkinsonrogers.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-03-11 | [`Edesur Dominicana`](https://google.com/search?q=Edesur+Dominicana) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-22 | [`planetone-asia.com`](https://google.com/search?q=planetone-asia.com) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2025-02-22 | [`Peter Glenn Ski Sport`](https://google.com/search?q=Peter+Glenn+Ski+Sport) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-02-22 | [`Excel Security`](https://google.com/search?q=Excel+Security) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
-| 2025-02-22 | [`www.cityoftarrant.com`](https://google.com/search?q=www.cityoftarrant.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
