@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-14 | [`idcconstruction.com`](https://google.com/search?q=idcconstruction.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-14 | [`Indiv Usa`](https://google.com/search?q=Indiv+Usa) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2025-03-14 | [`jennyyoo.com`](https://google.com/search?q=jennyyoo.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-14 | [`Harrells.com`](https://google.com/search?q=Harrells.com) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-25 | [`ALCOTT HR GROUP`](https://google.com/search?q=ALCOTT+HR+GROUP) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-25 | [`bluedge.com\$104.5M\USA\994GB\&lt;1% DISCLOSED`](https://google.com/search?q=bluedge.com%5C%24104.5M%5CUSA%5C994GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-02-25 | [`unila.edu.mx`](https://google.com/search?q=unila.edu.mx) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2025-02-25 | [`ossc.mx`](https://google.com/search?q=ossc.mx) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
