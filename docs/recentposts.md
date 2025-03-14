@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-14 | [`Fulcrum Lifting`](https://google.com/search?q=Fulcrum+Lifting) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2025-03-14 | [`fstlogistics.com`](https://google.com/search?q=fstlogistics.com) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2025-03-14 | [`Tryon`](https://google.com/search?q=Tryon) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2025-03-14 | [`idcconstruction.com`](https://google.com/search?q=idcconstruction.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-26 | [`First Federal Savings & Loan`](https://google.com/search?q=First+Federal+Savings+%26+Loan) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-26 | [`Fairhaven Shipyard Companies`](https://google.com/search?q=Fairhaven+Shipyard+Companies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-25 | [`Convert Solar`](https://google.com/search?q=Convert+Solar) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-02-25 | [`ALCOTT HR GROUP`](https://google.com/search?q=ALCOTT+HR+GROUP) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
