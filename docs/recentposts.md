@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-17 | [`bluedge.com\$104.5M\USA\994GB\100% DISCLOSED`](https://google.com/search?q=bluedge.com%5C%24104.5M%5CUSA%5C994GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-03-16 | [`www.ameda.com`](https://google.com/search?q=www.ameda.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-16 | [`Courageous Home Care`](https://google.com/search?q=Courageous+Home+Care) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-03-15 | [`PPS Services Group`](https://google.com/search?q=PPS+Services+Group) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-26 | [`www.bwdtechnology.com`](https://google.com/search?q=www.bwdtechnology.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-26 | [`hgmlegal.com`](https://google.com/search?q=hgmlegal.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-26 | [`welcompanies.com`](https://google.com/search?q=welcompanies.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-02-26 | [`Radco Industries`](https://google.com/search?q=Radco+Industries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
