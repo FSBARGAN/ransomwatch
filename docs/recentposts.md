@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-18 | [`51talk.com`](https://google.com/search?q=51talk.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-03-18 | [`RAE (Real Academia Española) (rae.es)`](https://google.com/search?q=RAE+%28Real+Academia+Espa%C3%B1ola%29+%28rae.es%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-03-18 | [`goencon.com`](https://google.com/search?q=goencon.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-18 | [`oneill.com`](https://google.com/search?q=oneill.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-27 | [`teamwass.com`](https://google.com/search?q=teamwass.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-27 | [`www.nasonptc.com`](https://google.com/search?q=www.nasonptc.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-27 | [`Vermeer Mexico`](https://google.com/search?q=Vermeer+Mexico) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2025-02-27 | [`jtu.com.br`](https://google.com/search?q=jtu.com.br) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
