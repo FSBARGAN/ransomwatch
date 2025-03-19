@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-19 | [`AMICIO`](https://google.com/search?q=AMICIO) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2025-03-19 | [`Coopertruni`](https://google.com/search?q=Coopertruni) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-03-19 | [`THX Transport`](https://google.com/search?q=THX+Transport) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-03-19 | [`Kiribati Government`](https://google.com/search?q=Kiribati+Government) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-28 | [`www.cmsg.cl`](https://google.com/search?q=www.cmsg.cl) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-28 | [`www.amerasphalt.com`](https://google.com/search?q=www.amerasphalt.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-28 | [`www.emeryair.net`](https://google.com/search?q=www.emeryair.net) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-02-28 | [`www.newburghhealthcarecenter.com`](https://google.com/search?q=www.newburghhealthcarecenter.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
