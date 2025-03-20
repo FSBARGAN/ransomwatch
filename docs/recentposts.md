@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-20 | [`www.janvier-labs.com`](https://google.com/search?q=www.janvier-labs.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-20 | [`Newtown Friends School (newtownfriends.org)`](https://google.com/search?q=Newtown+Friends+School+%28newtownfriends.org%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-03-20 | [`Cargills Bank`](https://google.com/search?q=Cargills+Bank) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-03-20 | [`Megacentro`](https://google.com/search?q=Megacentro) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-28 | [`pace-usa.com\$134.4M\USA\65gb\&lt;1% DISCLOSED`](https://google.com/search?q=pace-usa.com%5C%24134.4M%5CUSA%5C65gb%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-02-28 | [`steelwarehouse.com\$570.3M\USA\679gb\&lt;1% DISCLOSED`](https://google.com/search?q=steelwarehouse.com%5C%24570.3M%5CUSA%5C679gb%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-02-28 | [`www.avalon-hotel.com`](https://google.com/search?q=www.avalon-hotel.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-02-28 | [`www.wpisd.com`](https://google.com/search?q=www.wpisd.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
