@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-20 | [`Megacentro`](https://google.com/search?q=Megacentro) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-03-19 | [`Q railing`](https://google.com/search?q=Q+railing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-03-19 | [`controlledair.com`](https://google.com/search?q=controlledair.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-19 | [`Palomino Petroleum`](https://google.com/search?q=Palomino+Petroleum) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-28 | [`www.wpisd.com`](https://google.com/search?q=www.wpisd.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-28 | [`www.ateliermonarque.com`](https://google.com/search?q=www.ateliermonarque.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-28 | [`Inversiones Clinica Del Meta SA`](https://google.com/search?q=Inversiones+Clinica+Del+Meta+SA) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
-| 2025-02-28 | [`www.obrienavocats.qc.ca`](https://google.com/search?q=www.obrienavocats.qc.ca) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
