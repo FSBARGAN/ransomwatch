@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-21 | [`Whittaker &amp; Company`](https://google.com/search?q=Whittaker+%26amp%3B+Company) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-03-20 | [`www.mslglobalexp.com`](https://google.com/search?q=www.mslglobalexp.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-20 | [`yano.tokyo`](https://google.com/search?q=yano.tokyo) | [blackout](https://ransomwatch.telemetry.ltd/#/profiles?id=blackout) |
 | 2025-03-20 | [`www.georgehay.co.uk`](https://google.com/search?q=www.georgehay.co.uk) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-01 | [`electrocraft.com\$190.1M\USA\477GB\&lt;1% DISCLOSED`](https://google.com/search?q=electrocraft.com%5C%24190.1M%5CUSA%5C477GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-03-01 | [`associatedasset.com\$288M\USA\26GB\&lt;1% DISCLOSED`](https://google.com/search?q=associatedasset.com%5C%24288M%5CUSA%5C26GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-03-01 | [`grede.com\$814.7M\USA\524gb\&lt;1% DISCLOSED`](https://google.com/search?q=grede.com%5C%24814.7M%5CUSA%5C524gb%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2025-03-01 | [`branchgroup.com\$333M\USA\253GB\&lt;1% DISCLOSED`](https://google.com/search?q=branchgroup.com%5C%24333M%5CUSA%5C253GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
