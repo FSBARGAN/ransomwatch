@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-22 | [`Goshen Medical Center`](https://google.com/search?q=Goshen+Medical+Center) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2025-03-22 | [`REOC San Antonio`](https://google.com/search?q=REOC+San+Antonio) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-03-22 | [`www.elizajennings.org`](https://google.com/search?q=www.elizajennings.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-22 | [`www.sinkdirect.com`](https://google.com/search?q=www.sinkdirect.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-02 | [`bestbrands.com\$25.5M\USA\659GB\100% DISCLOSED`](https://google.com/search?q=bestbrands.com%5C%2425.5M%5CUSA%5C659GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-03-02 | [`newhorizonsbaking.com\$163M\USA\455GB\100% DISCLOSED`](https://google.com/search?q=newhorizonsbaking.com%5C%24163M%5CUSA%5C455GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-03-02 | [`powelltool.com`](https://google.com/search?q=powelltool.com) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
-| 2025-03-02 | [`Societatea Energetica Electrica S.A.`](https://google.com/search?q=Societatea+Energetica+Electrica+S.A.) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
