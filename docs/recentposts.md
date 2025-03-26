@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-26 | [`www.argentosc.com`](https://google.com/search?q=www.argentosc.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-26 | [`www.ripplejunction.com`](https://google.com/search?q=www.ripplejunction.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-26 | [`www.creativelogisticservices.com`](https://google.com/search?q=www.creativelogisticservices.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-26 | [`www.afnigc.ca`](https://google.com/search?q=www.afnigc.ca) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-05 | [`Best Collateral, Inc.`](https://google.com/search?q=Best+Collateral%2C+Inc.) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-03-05 | [`andreyevengineering.com`](https://google.com/search?q=andreyevengineering.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-05 | [`Tata Technologies`](https://google.com/search?q=Tata+Technologies) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2025-03-05 | [`365labs - Security Corp`](https://google.com/search?q=365labs+-+Security+Corp) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
