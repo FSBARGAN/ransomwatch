@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-27 | [`www.DSelectrical.com`](https://google.com/search?q=www.DSelectrical.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-27 | [`conterra.com`](https://google.com/search?q=conterra.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-27 | [`www.hongthongrice.com`](https://google.com/search?q=www.hongthongrice.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-27 | [`www.carolinaac.com`](https://google.com/search?q=www.carolinaac.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-05 | [`dsrny.com`](https://google.com/search?q=dsrny.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-05 | [`www.japanrebuilt.jp`](https://google.com/search?q=www.japanrebuilt.jp) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-05 | [`escada.com`](https://google.com/search?q=escada.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-03-05 | [`familychc.com`](https://google.com/search?q=familychc.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
