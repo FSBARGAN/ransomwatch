@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-29 | [`www.assisi.nl`](https://google.com/search?q=www.assisi.nl) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-29 | [`Pacific Residential Mortgage`](https://google.com/search?q=Pacific+Residential+Mortgage) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2025-03-29 | [`Amatech`](https://google.com/search?q=Amatech) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2025-03-29 | [`Solar Optimum`](https://google.com/search?q=Solar+Optimum) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-07 | [`srmg.com.au`](https://google.com/search?q=srmg.com.au) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-07 | [`bayvillage.org`](https://google.com/search?q=bayvillage.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-07 | [`associatedasset.com\$288M\USA\26GB\100% DISCLOSED`](https://google.com/search?q=associatedasset.com%5C%24288M%5CUSA%5C26GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2025-03-07 | [`grede.com\$814.7M\USA\524GB\100% DISCLOSED`](https://google.com/search?q=grede.com%5C%24814.7M%5CUSA%5C524GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
