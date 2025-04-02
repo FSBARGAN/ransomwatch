@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-04-02 | [`A little gift of exclusive data for everyone`](https://google.com/search?q=A+little+gift+of+exclusive+data+for+everyone) | [daixin](https://ransomwatch.telemetry.ltd/#/profiles?id=daixin) |
 | 2025-04-02 | [`Adval Tech`](https://google.com/search?q=Adval+Tech) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2025-04-02 | [`Clarity Ventures`](https://google.com/search?q=Clarity+Ventures) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-04-02 | [`crownlaboratories.com`](https://google.com/search?q=crownlaboratories.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-08 | [`mitchellmcnutt.com`](https://google.com/search?q=mitchellmcnutt.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-08 | [`Oberlin Cable Co-op (oberlin.net)`](https://google.com/search?q=Oberlin+Cable+Co-op+%28oberlin.net%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-03-08 | [`WJCC Public Schools (wjccschools.org)`](https://google.com/search?q=WJCC+Public+Schools+%28wjccschools.org%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
-| 2025-03-08 | [`LINKGROUP`](https://google.com/search?q=LINKGROUP) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
