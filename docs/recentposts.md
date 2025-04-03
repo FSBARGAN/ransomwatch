@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-04-03 | [`Hop Industries`](https://google.com/search?q=Hop+Industries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-04-02 | [`Fulfillment Plus`](https://google.com/search?q=Fulfillment+Plus) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-04-02 | [`A little gift of exclusive data for everyone`](https://google.com/search?q=A+little+gift+of+exclusive+data+for+everyone) | [daixin](https://ransomwatch.telemetry.ltd/#/profiles?id=daixin) |
 | 2025-04-02 | [`Adval Tech`](https://google.com/search?q=Adval+Tech) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-09 | [`The 19 biggest gitlabs`](https://google.com/search?q=The+19+biggest+gitlabs) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-03-08 | [`www.dcarosolutions.com`](https://google.com/search?q=www.dcarosolutions.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-08 | [`mitchellmcnutt.com`](https://google.com/search?q=mitchellmcnutt.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-03-08 | [`Oberlin Cable Co-op (oberlin.net)`](https://google.com/search?q=Oberlin+Cable+Co-op+%28oberlin.net%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
