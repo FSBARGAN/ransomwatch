@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-04-04 | [`Sansone Group`](https://google.com/search?q=Sansone+Group) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-04-04 | [`National Sign corp`](https://google.com/search?q=National+Sign+corp) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-04-03 | [`Engine Power Source`](https://google.com/search?q=Engine+Power+Source) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2025-04-03 | [`Alton Steel`](https://google.com/search?q=Alton+Steel) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-09 | [`Compound Solutions`](https://google.com/search?q=Compound+Solutions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-03-09 | [`Clawson Honda`](https://google.com/search?q=Clawson+Honda) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-03-09 | [`Buckley BalaWilson Mew`](https://google.com/search?q=Buckley+BalaWilson+Mew) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-03-09 | [`Insider Technologies Limited`](https://google.com/search?q=Insider+Technologies+Limited) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
