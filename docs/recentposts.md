@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-04-05 | [`Nexia Poyiadjis IT`](https://google.com/search?q=Nexia+Poyiadjis+IT) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-04-05 | [`Blackmon Mooring`](https://google.com/search?q=Blackmon+Mooring) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-04-05 | [`grupotersa.com.mx`](https://google.com/search?q=grupotersa.com.mx) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-04-05 | [`Industrial Corona de México`](https://google.com/search?q=Industrial+Corona+de+M%C3%A9xico) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-10 | [`Syma-System`](https://google.com/search?q=Syma-System) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-03-10 | [`Peak Season`](https://google.com/search?q=Peak+Season) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-03-10 | [`Nor Arc`](https://google.com/search?q=Nor+Arc) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-03-10 | [`Jerue Companies`](https://google.com/search?q=Jerue+Companies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
