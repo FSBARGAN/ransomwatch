@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-04-08 | [`shengyusteel.com`](https://google.com/search?q=shengyusteel.com) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
 | 2025-04-07 | [`Telecontrol`](https://google.com/search?q=Telecontrol) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-04-07 | [`[DISCLOSED]Cell C`](https://google.com/search?q=%5BDISCLOSED%5DCell+C) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-04-06 | [`asiapacificex.com`](https://google.com/search?q=asiapacificex.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-11 | [`Edesur Dominicana`](https://google.com/search?q=Edesur+Dominicana) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-03-11 | [`quigleyeye.com\$33.6M\USA\3.4TB\100% DISCLOSED`](https://google.com/search?q=quigleyeye.com%5C%2433.6M%5CUSA%5C3.4TB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-03-11 | [`Salemerode.com`](https://google.com/search?q=Salemerode.com) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
-| 2025-03-11 | [`www.hexosys.com`](https://google.com/search?q=www.hexosys.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
