@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-04-14 | [`Comport Technology Solutions`](https://google.com/search?q=Comport+Technology+Solutions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-04-14 | [`Calmont Group`](https://google.com/search?q=Calmont+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-04-13 | [`intelliloan.com`](https://google.com/search?q=intelliloan.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-04-12 | [`visionproducts.llc`](https://google.com/search?q=visionproducts.llc) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-13 | [`Best Cheer Stone`](https://google.com/search?q=Best+Cheer+Stone) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-03-13 | [`Backes`](https://google.com/search?q=Backes) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-03-13 | [`www.raymond.in`](https://google.com/search?q=www.raymond.in) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-03-13 | [`RJ IT Solutions`](https://google.com/search?q=RJ+IT+Solutions) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
