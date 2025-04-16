@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-04-16 | [`McElwee Firm`](https://google.com/search?q=McElwee+Firm) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2025-04-16 | [`semex.com`](https://google.com/search?q=semex.com) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
 | 2025-04-16 | [`toolsign.com`](https://google.com/search?q=toolsign.com) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2025-04-15 | [`Astra Products`](https://google.com/search?q=Astra+Products) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-16 | [`www.ameda.com`](https://google.com/search?q=www.ameda.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-16 | [`Courageous Home Care`](https://google.com/search?q=Courageous+Home+Care) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-03-15 | [`PPS Services Group`](https://google.com/search?q=PPS+Services+Group) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
-| 2025-03-15 | [`Seabank Group`](https://google.com/search?q=Seabank+Group) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
