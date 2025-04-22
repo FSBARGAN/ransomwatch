@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-04-22 | [`Bacton Transport Services`](https://google.com/search?q=Bacton+Transport+Services) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-04-22 | [`R&N Manufacturing`](https://google.com/search?q=R%26N+Manufacturing) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2025-04-22 | [`Acos Favorit`](https://google.com/search?q=Acos+Favorit) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-04-21 | [`C-Mec`](https://google.com/search?q=C-Mec) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-19 | [`THX Transport`](https://google.com/search?q=THX+Transport) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-03-19 | [`Kiribati Government`](https://google.com/search?q=Kiribati+Government) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-03-19 | [`CD`](https://google.com/search?q=CD) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
-| 2025-03-18 | [`Gloria Cales`](https://google.com/search?q=Gloria+Cales) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
