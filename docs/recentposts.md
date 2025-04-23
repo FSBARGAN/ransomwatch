@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-04-23 | [`Milicic`](https://google.com/search?q=Milicic) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-04-23 | [`Springer & Steinberg`](https://google.com/search?q=Springer+%26+Steinberg) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2025-04-23 | [`Mafi`](https://google.com/search?q=Mafi) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-04-23 | [`The Human Bean`](https://google.com/search?q=The+Human+Bean) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-20 | [`yano.tokyo`](https://google.com/search?q=yano.tokyo) | [blackout](https://ransomwatch.telemetry.ltd/#/profiles?id=blackout) |
 | 2025-03-20 | [`www.georgehay.co.uk`](https://google.com/search?q=www.georgehay.co.uk) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-20 | [`www.janvier-labs.com`](https://google.com/search?q=www.janvier-labs.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-03-20 | [`Newtown Friends School (newtownfriends.org)`](https://google.com/search?q=Newtown+Friends+School+%28newtownfriends.org%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
