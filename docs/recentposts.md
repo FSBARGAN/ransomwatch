@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-04-23 | [`Lantronix`](https://google.com/search?q=Lantronix) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-04-22 | [`Jet Ice`](https://google.com/search?q=Jet+Ice) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-04-22 | [`Independent Financial Services`](https://google.com/search?q=Independent+Financial+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-04-22 | [`All Book Covers`](https://google.com/search?q=All+Book+Covers) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-19 | [`Q railing`](https://google.com/search?q=Q+railing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-03-19 | [`controlledair.com`](https://google.com/search?q=controlledair.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-19 | [`Palomino Petroleum`](https://google.com/search?q=Palomino+Petroleum) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
-| 2025-03-19 | [`AMICIO`](https://google.com/search?q=AMICIO) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
