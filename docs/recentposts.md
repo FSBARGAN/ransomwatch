@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-04-25 | [`buildingmaterialspecialties.com`](https://google.com/search?q=buildingmaterialspecialties.com) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2025-04-25 | [`greatplainstransport.com`](https://google.com/search?q=greatplainstransport.com) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2025-04-25 | [`pay4freight.com`](https://google.com/search?q=pay4freight.com) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2025-04-25 | [`impactcanada.com`](https://google.com/search?q=impactcanada.com) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-22 | [`www.gcsnet.com`](https://google.com/search?q=www.gcsnet.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-22 | [`www.core-1.com`](https://google.com/search?q=www.core-1.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-22 | [`www.esquirebrands.com`](https://google.com/search?q=www.esquirebrands.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-03-21 | [`gbsn.com.br`](https://google.com/search?q=gbsn.com.br) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
