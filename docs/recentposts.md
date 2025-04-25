@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-04-25 | [`corporateflight.com`](https://google.com/search?q=corporateflight.com) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2025-04-25 | [`shgcpa.com`](https://google.com/search?q=shgcpa.com) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2025-04-25 | [`Kenworth Del Sur`](https://google.com/search?q=Kenworth+Del+Sur) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-04-25 | [`Kasb Bank - K-Trade`](https://google.com/search?q=Kasb+Bank+-+K-Trade) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-22 | [`www.broadmoormethodist.org`](https://google.com/search?q=www.broadmoormethodist.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-22 | [`www.parklandmanufacturing.com`](https://google.com/search?q=www.parklandmanufacturing.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-22 | [`www.solinst.com`](https://google.com/search?q=www.solinst.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-03-22 | [`www.njcalwe.com`](https://google.com/search?q=www.njcalwe.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
