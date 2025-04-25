@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-04-25 | [`pay4freight.com`](https://google.com/search?q=pay4freight.com) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2025-04-25 | [`impactcanada.com`](https://google.com/search?q=impactcanada.com) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2025-04-24 | [`friscochamber.com`](https://google.com/search?q=friscochamber.com) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2025-04-24 | [`https://www.pacmet.com`](https://google.com/search?q=https%3A%2F%2Fwww.pacmet.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-22 | [`www.esquirebrands.com`](https://google.com/search?q=www.esquirebrands.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-21 | [`gbsn.com.br`](https://google.com/search?q=gbsn.com.br) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-21 | [`www.avalonapparel.com`](https://google.com/search?q=www.avalonapparel.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-03-21 | [`www.oneupinnovations.com`](https://google.com/search?q=www.oneupinnovations.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
