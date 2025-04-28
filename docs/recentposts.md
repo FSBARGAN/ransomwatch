@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-04-28 | [`Minnesota Lawyers Mutual Insurance`](https://google.com/search?q=Minnesota+Lawyers+Mutual+Insurance) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-04-28 | [`Scientel Solutions`](https://google.com/search?q=Scientel+Solutions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-04-28 | [`Mantel Machine Products`](https://google.com/search?q=Mantel+Machine+Products) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-04-28 | [`Haas & Associates`](https://google.com/search?q=Haas+%26+Associates) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-23 | [`www.accessfinanceonline.com`](https://google.com/search?q=www.accessfinanceonline.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-23 | [`www.ahmadiyya.ca`](https://google.com/search?q=www.ahmadiyya.ca) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-22 | [`Zaveta Custom Homes`](https://google.com/search?q=Zaveta+Custom+Homes) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-03-22 | [`Goshen Medical Center`](https://google.com/search?q=Goshen+Medical+Center) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
