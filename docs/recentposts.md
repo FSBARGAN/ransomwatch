@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-04-29 | [`BOLL Logistik`](https://google.com/search?q=BOLL+Logistik) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-04-29 | [`David Mills CPA, LLC`](https://google.com/search?q=David+Mills+CPA%2C+LLC) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2025-04-28 | [`LaBella Associates`](https://google.com/search?q=LaBella+Associates) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-04-28 | [`Minnesota Lawyers Mutual Insurance`](https://google.com/search?q=Minnesota+Lawyers+Mutual+Insurance) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-23 | [`www.gestionquintessence.com`](https://google.com/search?q=www.gestionquintessence.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-23 | [`www.engines.man.eu`](https://google.com/search?q=www.engines.man.eu) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-23 | [`www.abmenviro.ca`](https://google.com/search?q=www.abmenviro.ca) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-03-23 | [`www.accessfinanceonline.com`](https://google.com/search?q=www.accessfinanceonline.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
