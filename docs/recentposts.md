@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-04-30 | [`Telco Intercontinental`](https://google.com/search?q=Telco+Intercontinental) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-04-30 | [`FCC`](https://google.com/search?q=FCC) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-04-30 | [`Digestive Specialists`](https://google.com/search?q=Digestive+Specialists) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-04-30 | [`Penn Emblem (penn.local)`](https://google.com/search?q=Penn+Emblem+%28penn.local%29) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-25 | [`OMLTD.CO.JP`](https://google.com/search?q=OMLTD.CO.JP) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-25 | [`Okeene Elementary School`](https://google.com/search?q=Okeene+Elementary+School) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-03-25 | [`technicare.com`](https://google.com/search?q=technicare.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-03-25 | [`cisd.org`](https://google.com/search?q=cisd.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
