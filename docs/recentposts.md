@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-05-01 | [`Defected Records`](https://google.com/search?q=Defected+Records) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-01 | [`Custom Paper`](https://google.com/search?q=Custom+Paper) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-01 | [`WDEF-TV`](https://google.com/search?q=WDEF-TV) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2025-05-01 | [`maywdef`](https://google.com/search?q=maywdef) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-25 | [`fepasa.com.ar`](https://google.com/search?q=fepasa.com.ar) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-03-25 | [`bioclimaservice.it`](https://google.com/search?q=bioclimaservice.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-03-25 | [`www.solidworld.it`](https://google.com/search?q=www.solidworld.it) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-03-25 | [`www.s3s.com`](https://google.com/search?q=www.s3s.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
