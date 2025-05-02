@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-05-02 | [`ECOM America`](https://google.com/search?q=ECOM+America) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-02 | [`pdcm.com`](https://google.com/search?q=pdcm.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-05-02 | [`kll-law.com`](https://google.com/search?q=kll-law.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-05-02 | [`arc-com.com`](https://google.com/search?q=arc-com.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-26 | [`usCalibration`](https://google.com/search?q=usCalibration) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-03-25 | [`Kimco Steel`](https://google.com/search?q=Kimco+Steel) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-03-25 | [`B&C Industries`](https://google.com/search?q=B%26C+Industries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-03-25 | [`ossc.com.mx`](https://google.com/search?q=ossc.com.mx) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
