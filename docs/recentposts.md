@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-05-05 | [`rushenergyservices.c`](https://google.com/search?q=rushenergyservices.c) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-05-05 | [`OeTTINGER Brauerei`](https://google.com/search?q=OeTTINGER+Brauerei) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-05-04 | [`CabinC.com`](https://google.com/search?q=CabinC.com) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2025-05-03 | [`Kalin Hobeltechnik`](https://google.com/search?q=Kalin+Hobeltechnik) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-26 | [`www.fkm-elemente.de`](https://google.com/search?q=www.fkm-elemente.de) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-26 | [`www.garbinc.com`](https://google.com/search?q=www.garbinc.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-26 | [`www.mododoc.com`](https://google.com/search?q=www.mododoc.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-03-26 | [`www.argentosc.com`](https://google.com/search?q=www.argentosc.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
