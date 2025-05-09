@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-05-09 | [`hennessyfunds.com`](https://google.com/search?q=hennessyfunds.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-05-09 | [`de`](https://google.com/search?q=de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-05-08 | [`UniTrak`](https://google.com/search?q=UniTrak) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-07 | [`vzlom7may.omg`](https://google.com/search?q=vzlom7may.omg) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-29 | [`Solar Optimum`](https://google.com/search?q=Solar+Optimum) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2025-03-29 | [`Martin Mechanical (martin.local)`](https://google.com/search?q=Martin+Mechanical+%28martin.local%29) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2025-03-29 | [`AJF Inspections & Engineering ()`](https://google.com/search?q=AJF+Inspections+%26+Engineering+%28%29) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
-| 2025-03-29 | [`solaroptimum.com`](https://google.com/search?q=solaroptimum.com) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
