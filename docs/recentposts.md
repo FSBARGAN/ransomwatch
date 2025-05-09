@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-05-09 | [`Sweet Shop USA`](https://google.com/search?q=Sweet+Shop+USA) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-09 | [`Gistic Research`](https://google.com/search?q=Gistic+Research) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-09 | [`EMX Enterprises`](https://google.com/search?q=EMX+Enterprises) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-09 | [`Mountain View Mushrooms`](https://google.com/search?q=Mountain+View+Mushrooms) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-31 | [`test1234.com`](https://google.com/search?q=test1234.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-03-29 | [`www.assisi.nl`](https://google.com/search?q=www.assisi.nl) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-29 | [`Pacific Residential Mortgage`](https://google.com/search?q=Pacific+Residential+Mortgage) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
-| 2025-03-29 | [`Amatech`](https://google.com/search?q=Amatech) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
