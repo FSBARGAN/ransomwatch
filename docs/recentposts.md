@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-05-10 | [`www.cityofgroveok.gov`](https://google.com/search?q=www.cityofgroveok.gov) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2025-05-10 | [`citrusmagic.com`](https://google.com/search?q=citrusmagic.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2025-05-10 | [`statesmanbiz.com`](https://google.com/search?q=statesmanbiz.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2025-05-10 | [`American Eagle Logistics - Full Leak`](https://google.com/search?q=American+Eagle+Logistics+-+Full+Leak) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-04-01 | [`jackpotjunction.com`](https://google.com/search?q=jackpotjunction.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-31 | [`CMC Technology Group`](https://google.com/search?q=CMC+Technology+Group) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2025-03-31 | [`Meridian Senior`](https://google.com/search?q=Meridian+Senior) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2025-03-31 | [`Saunders and Saunders`](https://google.com/search?q=Saunders+and+Saunders) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
