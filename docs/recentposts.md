@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-05-12 | [`www.condista.com`](https://google.com/search?q=www.condista.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2025-05-12 | [`iacc.holdings`](https://google.com/search?q=iacc.holdings) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2025-05-11 | [`www.texlaenergy.com`](https://google.com/search?q=www.texlaenergy.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2025-05-11 | [`www.precisiontextiles-usa.com`](https://google.com/search?q=www.precisiontextiles-usa.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-04-03 | [`Regionale Verkehrsbetriebe`](https://google.com/search?q=Regionale+Verkehrsbetriebe) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-04-03 | [`Parvin-Clauss Sign Company`](https://google.com/search?q=Parvin-Clauss+Sign+Company) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-04-03 | [`OTA Management`](https://google.com/search?q=OTA+Management) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-04-03 | [`Lifebreath`](https://google.com/search?q=Lifebreath) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
