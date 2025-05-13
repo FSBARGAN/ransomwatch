@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-05-13 | [`Operative`](https://google.com/search?q=Operative) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-12 | [`Just Concrete & Masonry`](https://google.com/search?q=Just+Concrete+%26+Masonry) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-12 | [`EIZO Rugged Solutions`](https://google.com/search?q=EIZO+Rugged+Solutions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-12 | [`www.philsmithauto.com`](https://google.com/search?q=www.philsmithauto.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-04-05 | [`Nexia Poyiadjis IT`](https://google.com/search?q=Nexia+Poyiadjis+IT) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-04-05 | [`Blackmon Mooring`](https://google.com/search?q=Blackmon+Mooring) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-04-05 | [`grupotersa.com.mx`](https://google.com/search?q=grupotersa.com.mx) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2025-04-05 | [`Industrial Corona de México`](https://google.com/search?q=Industrial+Corona+de+M%C3%A9xico) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
