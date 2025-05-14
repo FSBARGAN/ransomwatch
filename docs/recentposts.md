@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-05-14 | [`Kingsmen Creatives Ltd. `](https://google.com/search?q=Kingsmen+Creatives+Ltd.+) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
 | 2025-05-13 | [`Dishaka`](https://google.com/search?q=Dishaka) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-13 | [`Nedved Architekti`](https://google.com/search?q=Nedved+Architekti) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-05-13 | [`First Choice Courier &amp; Messenger`](https://google.com/search?q=First+Choice+Courier+%26amp%3B+Messenger) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-04-06 | [`Hofmann Fördertechnik GmbH`](https://google.com/search?q=Hofmann+F%C3%B6rdertechnik+GmbH) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-04-06 | [`Swiss Capitals Group`](https://google.com/search?q=Swiss+Capitals+Group) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-04-06 | [`L&amp;S Mechanical (Reuploaded)`](https://google.com/search?q=L%26amp%3BS+Mechanical+%28Reuploaded%29) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2025-04-05 | [`Hawk Technology`](https://google.com/search?q=Hawk+Technology) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
