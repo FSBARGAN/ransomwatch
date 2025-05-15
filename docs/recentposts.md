@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-05-15 | [`[DISCLOSED]OeTTINGER Brauerei`](https://google.com/search?q=%5BDISCLOSED%5DOeTTINGER+Brauerei) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-05-15 | [`http://www.gloucesterva.gov`](https://google.com/search?q=http%3A%2F%2Fwww.gloucesterva.gov) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2025-05-15 | [`Royal Chemical`](https://google.com/search?q=Royal+Chemical) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2025-05-14 | [`Regal Ideas`](https://google.com/search?q=Regal+Ideas) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-04-07 | [`Telecontrol`](https://google.com/search?q=Telecontrol) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-04-07 | [`[DISCLOSED]Cell C`](https://google.com/search?q=%5BDISCLOSED%5DCell+C) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-04-06 | [`asiapacificex.com`](https://google.com/search?q=asiapacificex.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2025-04-06 | [`IDS Infotech`](https://google.com/search?q=IDS+Infotech) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
