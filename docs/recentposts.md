@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-05-23 | [`South Atlantic Federal Credit Union`](https://google.com/search?q=South+Atlantic+Federal+Credit+Union) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-23 | [`AKJ Energiteknik`](https://google.com/search?q=AKJ+Energiteknik) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-22 | [`Curewell Pharmacy &amp; Surgicals`](https://google.com/search?q=Curewell+Pharmacy+%26amp%3B+Surgicals) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-05-22 | [`4Motive`](https://google.com/search?q=4Motive) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-04-13 | [`intelliloan.com`](https://google.com/search?q=intelliloan.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-04-12 | [`visionproducts.llc`](https://google.com/search?q=visionproducts.llc) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-04-12 | [`acimfunds.com`](https://google.com/search?q=acimfunds.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2025-04-12 | [`Dimension Composite`](https://google.com/search?q=Dimension+Composite) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
