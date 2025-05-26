@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-05-26 | [`allstarflooring.com`](https://google.com/search?q=allstarflooring.com) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
 | 2025-05-25 | [`D****v.org`](https://google.com/search?q=D%2A%2A%2A%2Av.org) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-05-24 | [`cargotrini`](https://google.com/search?q=cargotrini) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-05-24 | [`T******p.ae`](https://google.com/search?q=T%2A%2A%2A%2A%2A%2Ap.ae) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-04-15 | [`James & Sons Fine Jewelers`](https://google.com/search?q=James+%26+Sons+Fine+Jewelers) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-04-15 | [`Destination Toronto`](https://google.com/search?q=Destination+Toronto) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-04-14 | [`Cortez Resources`](https://google.com/search?q=Cortez+Resources) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-04-14 | [`Comport Technology Solutions`](https://google.com/search?q=Comport+Technology+Solutions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
