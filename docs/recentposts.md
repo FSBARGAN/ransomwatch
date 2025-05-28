@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-05-28 | [`Fujipoly  Ltd`](https://google.com/search?q=Fujipoly++Ltd) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-05-27 | [`Wrap & Send Services`](https://google.com/search?q=Wrap+%26+Send+Services) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-05-27 | [`Eight8Ate Holdings, Inc`](https://google.com/search?q=Eight8Ate+Holdings%2C+Inc) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-05-27 | [`Corantioquia`](https://google.com/search?q=Corantioquia) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-04-16 | [`toolsign.com`](https://google.com/search?q=toolsign.com) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2025-04-15 | [`Astra Products`](https://google.com/search?q=Astra+Products) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2025-04-15 | [`Lake HVAC`](https://google.com/search?q=Lake+HVAC) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
-| 2025-04-15 | [`nevadareadymix.com`](https://google.com/search?q=nevadareadymix.com) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
