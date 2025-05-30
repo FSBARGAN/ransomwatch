@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-05-30 | [`Anchor Industries`](https://google.com/search?q=Anchor+Industries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-30 | [`STANDBYTE`](https://google.com/search?q=STANDBYTE) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-05-30 | [`Acorn Sales`](https://google.com/search?q=Acorn+Sales) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-05-30 | [`UnigazJordan`](https://google.com/search?q=UnigazJordan) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-04-17 | [`HOPI`](https://google.com/search?q=HOPI) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-04-17 | [`Feldman & Lopez`](https://google.com/search?q=Feldman+%26+Lopez) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2025-04-17 | [`EVERTECH INSTRUMENTAL CO., LTD`](https://google.com/search?q=EVERTECH+INSTRUMENTAL+CO.%2C+LTD) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2025-04-17 | [`VIÑUELAS ABOGADOS`](https://google.com/search?q=VI%C3%91UELAS+ABOGADOS) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
