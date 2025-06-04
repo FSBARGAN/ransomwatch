@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-06-04 | [`https://devimco.com/`](https://google.com/search?q=https%3A%2F%2Fdevimco.com%2F) | [metaencryptor](https://ransomwatch.telemetry.ltd/#/profiles?id=metaencryptor) |
 | 2025-06-03 | [`Sorter Construction`](https://google.com/search?q=Sorter+Construction) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-06-03 | [`Rochon`](https://google.com/search?q=Rochon) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-06-03 | [`FLOE Internationa`](https://google.com/search?q=FLOE+Internationa) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-04-22 | [`amethystgroup.co.uk`](https://google.com/search?q=amethystgroup.co.uk) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2025-04-22 | [`Bacton Transport Services`](https://google.com/search?q=Bacton+Transport+Services) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-04-22 | [`R&N Manufacturing`](https://google.com/search?q=R%26N+Manufacturing) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
-| 2025-04-22 | [`Acos Favorit`](https://google.com/search?q=Acos+Favorit) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
