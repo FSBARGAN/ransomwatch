@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-06-06 | [`A*****e.gov.ae`](https://google.com/search?q=A%2A%2A%2A%2A%2Ae.gov.ae) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-06-05 | [`Triumph Construction`](https://google.com/search?q=Triumph+Construction) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-06-05 | [`Ebac`](https://google.com/search?q=Ebac) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-06-05 | [`Lts.com.vn`](https://google.com/search?q=Lts.com.vn) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-04-23 | [`Lantronix`](https://google.com/search?q=Lantronix) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-04-22 | [`Jet Ice`](https://google.com/search?q=Jet+Ice) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-04-22 | [`Independent Financial Services`](https://google.com/search?q=Independent+Financial+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-04-22 | [`All Book Covers`](https://google.com/search?q=All+Book+Covers) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
