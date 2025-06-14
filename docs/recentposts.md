@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-06-14 | [`Rollex`](https://google.com/search?q=Rollex) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-06-14 | [`Project Partners`](https://google.com/search?q=Project+Partners) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-06-14 | [`NPD Products`](https://google.com/search?q=NPD+Products) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-06-14 | [`099 ISP Hacked`](https://google.com/search?q=099+ISP+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-04-25 | [`pay4freight.com`](https://google.com/search?q=pay4freight.com) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2025-04-25 | [`impactcanada.com`](https://google.com/search?q=impactcanada.com) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2025-04-24 | [`friscochamber.com`](https://google.com/search?q=friscochamber.com) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
-| 2025-04-24 | [`https://www.pacmet.com`](https://google.com/search?q=https%3A%2F%2Fwww.pacmet.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
