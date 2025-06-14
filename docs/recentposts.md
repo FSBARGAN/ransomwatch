@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-06-14 | [`099 ISP Hacked`](https://google.com/search?q=099+ISP+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-06-14 | [`Israel&#8217;s fuel supply system Hacked`](https://google.com/search?q=Israel%26%238217%3Bs+fuel+supply+system+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-06-14 | [`Y.G. New Idan Hacked`](https://google.com/search?q=Y.G.+New+Idan+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-06-14 | [`Aerodreams Hacked`](https://google.com/search?q=Aerodreams+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-04-24 | [`https://www.pacmet.com`](https://google.com/search?q=https%3A%2F%2Fwww.pacmet.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2025-04-24 | [`https://fortunesociety.org/`](https://google.com/search?q=https%3A%2F%2Ffortunesociety.org%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2025-04-24 | [`end2endtechnologies`](https://google.com/search?q=end2endtechnologies) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
-| 2025-04-24 | [`Vicarage Court Solicitors`](https://google.com/search?q=Vicarage+Court+Solicitors) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
