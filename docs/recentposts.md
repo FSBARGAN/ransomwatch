@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-06-16 | [`TBN Israel Hacked`](https://google.com/search?q=TBN+Israel+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-06-15 | [`Israel’s fuel supply system Data`](https://google.com/search?q=Israel%E2%80%99s+fuel+supply+system+Data) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-06-15 | [`S&H Express`](https://google.com/search?q=S%26H+Express) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-06-14 | [`Rollex`](https://google.com/search?q=Rollex) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-04-25 | [`Kasb Bank - K-Trade`](https://google.com/search?q=Kasb+Bank+-+K-Trade) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-04-25 | [`buildingmaterialspecialties.com`](https://google.com/search?q=buildingmaterialspecialties.com) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2025-04-25 | [`greatplainstransport.com`](https://google.com/search?q=greatplainstransport.com) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
-| 2025-04-25 | [`pay4freight.com`](https://google.com/search?q=pay4freight.com) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
