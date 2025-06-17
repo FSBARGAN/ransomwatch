@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-06-17 | [`VERTEL`](https://google.com/search?q=VERTEL) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-06-16 | [`NF Stroth & Associates`](https://google.com/search?q=NF+Stroth+%26+Associates) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-06-16 | [`Jasper Products`](https://google.com/search?q=Jasper+Products) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-06-16 | [`CNPC USA`](https://google.com/search?q=CNPC+USA) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-04-26 | [`MDB`](https://google.com/search?q=MDB) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-04-25 | [`corporateflight.com`](https://google.com/search?q=corporateflight.com) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2025-04-25 | [`shgcpa.com`](https://google.com/search?q=shgcpa.com) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
-| 2025-04-25 | [`Kenworth Del Sur`](https://google.com/search?q=Kenworth+Del+Sur) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
