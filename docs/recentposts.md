@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-06-18 | [`Coreix`](https://google.com/search?q=Coreix) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-06-18 | [`Agura B.C LTD Hacked`](https://google.com/search?q=Agura+B.C+LTD+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-06-18 | [`Weizmann Institute of Science Hacked`](https://google.com/search?q=Weizmann+Institute+of+Science+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-06-17 | [`VERTEL`](https://google.com/search?q=VERTEL) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-04-28 | [`Haas & Associates`](https://google.com/search?q=Haas+%26+Associates) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-04-27 | [`FMT Consultants`](https://google.com/search?q=FMT+Consultants) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-04-27 | [`Crawford Door Sales`](https://google.com/search?q=Crawford+Door+Sales) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-04-26 | [`MDB`](https://google.com/search?q=MDB) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
