@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-06-19 | [`Haor Heavy Transport Hacked`](https://google.com/search?q=Haor+Heavy+Transport+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-06-19 | [`Vacation Myrtle Beach`](https://google.com/search?q=Vacation+Myrtle+Beach) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-06-19 | [`Place Homes`](https://google.com/search?q=Place+Homes) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-06-19 | [`YHD Group Hacked`](https://google.com/search?q=YHD+Group+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-04-29 | [`BOLL Logistik`](https://google.com/search?q=BOLL+Logistik) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-04-29 | [`David Mills CPA, LLC`](https://google.com/search?q=David+Mills+CPA%2C+LLC) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2025-04-28 | [`LaBella Associates`](https://google.com/search?q=LaBella+Associates) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2025-04-28 | [`Minnesota Lawyers Mutual Insurance`](https://google.com/search?q=Minnesota+Lawyers+Mutual+Insurance) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
