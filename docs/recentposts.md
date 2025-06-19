@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-06-19 | [`YHD Group Hacked`](https://google.com/search?q=YHD+Group+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-06-19 | [`Saban Systems Hacked`](https://google.com/search?q=Saban+Systems+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-06-18 | [`Mor-logistics Hacked`](https://google.com/search?q=Mor-logistics+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-06-18 | [`Coreix`](https://google.com/search?q=Coreix) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-04-28 | [`Minnesota Lawyers Mutual Insurance`](https://google.com/search?q=Minnesota+Lawyers+Mutual+Insurance) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-04-28 | [`Scientel Solutions`](https://google.com/search?q=Scientel+Solutions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-04-28 | [`Mantel Machine Products`](https://google.com/search?q=Mantel+Machine+Products) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-04-28 | [`Haas & Associates`](https://google.com/search?q=Haas+%26+Associates) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
