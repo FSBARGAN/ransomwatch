@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-06-21 | [`Zacharia Levi Ltd Hacked`](https://google.com/search?q=Zacharia+Levi+Ltd+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-06-21 | [`Collision &amp; Classics`](https://google.com/search?q=Collision+%26amp%3B+Classics) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-06-20 | [`Kibbutz Almog Hacked`](https://google.com/search?q=Kibbutz+Almog+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-06-20 | [`Sivim IT Hacked`](https://google.com/search?q=Sivim+IT+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-04-30 | [`National Steel City`](https://google.com/search?q=National+Steel+City) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-04-30 | [`Missouri Pipe Fittings`](https://google.com/search?q=Missouri+Pipe+Fittings) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-04-30 | [`Gorham Sand & Gravel`](https://google.com/search?q=Gorham+Sand+%26+Gravel) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-04-29 | [`Cooper Global Chauffeured`](https://google.com/search?q=Cooper+Global+Chauffeured) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
